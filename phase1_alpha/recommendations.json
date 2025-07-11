@@ -1,0 +1,64 @@
+{
+  "timestamp": "2025-07-11T12:13:10-05:00",
+  "content_type": "book",
+  "recommendations": [
+    {
+      "title": "AI Leadership in 2026: The Future Executive's Guide",
+      "confidence": 75,
+      "rank": 1,
+      "market_gap_score": 6.5,
+      "content_type": "book"
+    },
+    {
+      "title": "Climate Solutions That Actually Work",
+      "confidence": 78,
+      "rank": 2,
+      "market_gap_score": 6.8,
+      "content_type": "book"
+    },
+    {
+      "title": "The Remote Work Revolution: Building Better Teams",
+      "confidence": 81,
+      "rank": 3,
+      "market_gap_score": 7.1,
+      "content_type": "book"
+    },
+    {
+      "title": "Cryptocurrency Beyond Bitcoin: Next Generation Finance",
+      "confidence": 84,
+      "rank": 4,
+      "market_gap_score": 7.4,
+      "content_type": "book"
+    },
+    {
+      "title": "Mental Health in the Digital Age",
+      "confidence": 87,
+      "rank": 5,
+      "market_gap_score": 7.7,
+      "content_type": "book"
+    },
+    {
+      "title": "Space Economy: The New Business Frontier",
+      "confidence": 90,
+      "rank": 6,
+      "market_gap_score": 8,
+      "content_type": "book"
+    },
+    {
+      "title": "Sustainable Cities: Urban Planning for Tomorrow",
+      "confidence": 93,
+      "rank": 7,
+      "market_gap_score": 8.3,
+      "content_type": "book"
+    },
+    {
+      "title": "The Psychology of Virtual Reality",
+      "confidence": 96,
+      "rank": 8,
+      "market_gap_score": 8.6,
+      "content_type": "book"
+    }
+  ],
+  "total_generated": 8,
+  "passing_threshold": 5
+}
