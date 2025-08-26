@@ -1,0 +1,7 @@
+## Author: Juniper Bloom
+
+**Backstory:**
+Juniper Bloom spent her childhood lost in the woods behind her house, convinced that magic lay just beyond the next tree. An avid reader of fantasy and folklore, she often felt a disconnect between the mundane world and the vibrant, imaginative landscapes of her favorite books. As an adult, she worked as a children's librarian, witnessing firsthand the transformative power of stories on young minds. She became passionate about creating narratives that encouraged children to find the extraordinary in the ordinary and to believe in their own inner strength. Her writing is often inspired by her love for nature and her belief in the hidden wonders of the world.
+
+**Motivation for *The Lumina Keepers of Starfall Grove*:**
+Juniper wrote *The Lumina Keepers of Starfall Grove* to inspire young readers to embrace their unique qualities and to find courage in unexpected places. She wanted to create a magical world that felt both fantastical and deeply rooted in the natural world, encouraging children to explore and appreciate their own surroundings. The book is a testament to the idea that even the quietest individuals can possess immense power and that true magic often lies in believing in oneself and the connections we forge with others. It's her way of sharing the wonder she always found in the woods with a new generation.

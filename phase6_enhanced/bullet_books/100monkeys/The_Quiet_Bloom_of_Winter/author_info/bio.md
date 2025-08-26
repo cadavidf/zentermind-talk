@@ -1,0 +1,7 @@
+## Author: Seraphina Hayes
+
+**Backstory:**
+Seraphina Hayes grew up in a small, isolated village nestled in a valley, much like Oakhaven. Her childhood was marked by a pervasive, unspoken family secret – a tragedy that no one ever directly addressed, but whose presence was felt in every hushed conversation and averted gaze. This atmosphere of suppressed emotion and hidden histories deeply influenced her. She spent her youth poring over old family letters and local archives, trying to piece together the fragments of a past that felt both intimately hers and frustratingly out of reach. After studying literature and folklore, she became fascinated by the ways communities and families carry and transmit their stories, both told and untold.
+
+**Motivation for *The Quiet Bloom of Winter*:**
+Seraphina wrote *The Quiet Bloom of Winter* as an exploration of the profound impact of inherited grief and unspoken truths. She wanted to give voice to the quiet, persistent yearning for understanding that often exists within families burdened by secrets. Her personal experience of growing up in a similar environment fueled her desire to show how confronting these hidden histories, no matter how painful, can lead to genuine healing and a deeper connection across generations. She believes that acknowledging the past is the first step towards truly living in the present and building a more authentic future.

@@ -1,0 +1,7 @@
+## Author: Willow Sterling
+
+**Backstory:**
+Willow Sterling grew up in a bustling family kitchen, where laughter, flour, and a healthy dose of chaos were daily ingredients. Her grandmother ran a beloved local bakery, and Willow spent countless hours observing the dynamics of small-town life, the quirky customers, and the passionate (and often dramatic) personalities behind the counter. While she initially pursued a career in corporate marketing, she found herself constantly drawn back to the warmth and genuine connections of her childhood memories. A self-proclaimed foodie and a hopeless romantic, Willow believes that the best stories, like the best pastries, are made with a mix of unexpected ingredients and a lot of heart.
+
+**Motivation for *The Accidental Bakery Bliss*:**
+Willow wrote *The Accidental Bakery Bliss* as an ode to the magic of small businesses, the charm of unexpected love, and the comforting power of food. She wanted to create a story that was both genuinely funny and deeply heartwarming, exploring how two seemingly opposite people can find common ground and fall in love amidst the delightful chaos of a bakery. The book is a celebration of community, second chances, and the idea that sometimes, the most perfect recipes for life are the ones you stumble upon by accident.

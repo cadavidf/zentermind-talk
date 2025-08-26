@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Book Selector</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <img src="/static/images/logo.png" alt="Book Selector Logo">
+    <h1>Top Selling Books</h1>
+    <ul>
+        {{range .}}
+        <li><a href="/select?title={{.Title}}">{{.Title}} by {{.Author}} (Appears in {{.SourceCount}} sources)</a></li>
+        {{end}}
+    </ul>
+</body>
+</html>

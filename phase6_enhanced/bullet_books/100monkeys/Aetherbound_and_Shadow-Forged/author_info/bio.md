@@ -1,0 +1,7 @@
+## Author: Kaelen Thorne
+
+**Backstory:**
+Kaelen Thorne spent his formative years immersed in ancient myths and legends, particularly those involving dragons and forgotten civilizations. A self-proclaimed history buff with a penchant for the fantastical, Kaelen often felt the modern world lacked the epic scope of the tales he devoured. His early career involved working in historical preservation, where he encountered countless stories of lost cultures and suppressed histories. This ignited a passion for exploring themes of hidden power, rebellion against oppressive regimes, and the enduring strength of unlikely bonds. He also has a secret love for dramatic, high-stakes romance, which he often weaves into his narratives.
+
+**Motivation for *Aetherbound & Shadow-Forged*:**
+Kaelen was driven to write *Aetherbound & Shadow-Forged* by a desire to create the kind of sweeping, action-packed fantasy he always wanted to read – one where the magic is visceral, the stakes are personal and global, and the romance is as central to the plot as the battles. He wanted to explore the idea of destiny intertwined with choice, and how two vastly different individuals can find strength and purpose in an unexpected connection. The book is his homage to the grand fantasy epics, infused with a modern sensibility and a focus on character-driven emotional arcs.

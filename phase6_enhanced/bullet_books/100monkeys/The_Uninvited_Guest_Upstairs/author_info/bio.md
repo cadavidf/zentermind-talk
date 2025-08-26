@@ -1,0 +1,7 @@
+## Author: Sloane Croft
+
+**Backstory:**
+Sloane Croft, a former investigative journalist, developed a keen eye for the unsettling truths hidden beneath seemingly ordinary surfaces. Her career often involved delving into local mysteries and true crime stories, where she witnessed firsthand how easily trust could be manipulated and how quickly a sense of security could shatter. She became particularly fascinated by the psychological dynamics of domestic spaces and the chilling idea that danger could reside just a wall away. A self-admitted insomniac, Sloane often found herself listening to the subtle sounds of her own apartment building late at night, fueling her imagination.
+
+**Motivation for *The Uninvited Guest Upstairs*:**
+Sloane wrote *The Uninvited Guest Upstairs* out of a desire to explore the insidious nature of psychological manipulation and the terror of being disbelieved. She wanted to tap into the universal fear of the unknown lurking in familiar spaces and the vulnerability of trusting those we invite into our lives. Her journalistic background provided the meticulous detail and suspenseful pacing, while her fascination with human psychology allowed her to craft a villain who is as charming as he is terrifying. The book is a cautionary tale about appearances and the dark secrets people keep.
