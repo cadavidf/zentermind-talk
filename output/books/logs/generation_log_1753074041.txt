@@ -1,0 +1,36 @@
+[00:00:41] IMPORTANT: 🆕 Starting new session...
+[00:00:41] SUCCESS: Theme Selection - Selected 10 diverse themes
+[00:00:41] IMPORTANT: 🚀 Starting Enhanced Sequential Book Generation...
+[00:00:41] PROGRESS: Chunk Processing (0.0%) - Starting chunk 1/4 (3 books)
+[00:00:41] PROGRESS: Book Generation (0.0%) - Book 1/10: Your AI, Your Mirror
+[00:00:41] PROGRESS: Outline Generation (5.0%) - Generating 1000-word outline for book 1
+[00:02:59] SUCCESS: Outline Generation - Generated 467-word outline
+[00:02:59] PROGRESS: Phase Processing (0.0%) - Book 1 - Phase 1: Market Intelligence & USP Optimization
+[00:02:59] PROGRESS: Phase Execution (0.0%) - Executing Phase 1 Beta
+[00:02:59] SUCCESS: Phase Execution - Completed in 42.239031ms
+[00:02:59] ERROR: File Copy - Could not copy from usp_optimization.json: open output/books/book_001/phase1_usp_optimization.json: no such file or directory
+[00:02:59] SUCCESS: Phase Processing - Phase 1 completed
+[00:03:00] PROGRESS: Phase Processing (1.4%) - Book 1 - Phase 2: Concept Generation & Validation
+[00:03:00] PROGRESS: Phase Execution (0.0%) - Executing Phase 2
+[00:03:00] SUCCESS: Phase Execution - Completed in 16.521218ms
+[00:03:00] ERROR: File Copy - Could not copy from concepts.json: open output/books/book_001/phase2_concepts.json: no such file or directory
+[00:03:00] SUCCESS: Phase Processing - Phase 2 completed
+[00:03:01] PROGRESS: Phase Processing (2.9%) - Book 1 - Phase 3: Reader Feedback & Shareability
+[00:03:01] PROGRESS: Phase Execution (0.0%) - Executing Phase 3
+[00:03:01] SUCCESS: Phase Execution - Completed in 14.553231ms
+[00:03:01] ERROR: File Copy - Could not copy from feedback.json: open output/books/book_001/phase3_feedback.json: no such file or directory
+[00:03:01] SUCCESS: Phase Processing - Phase 3 completed
+[00:03:02] PROGRESS: Phase Processing (4.3%) - Book 1 - Phase 4: Media Coverage & PR Analysis
+[00:03:02] PROGRESS: Phase Execution (0.0%) - Executing Phase 4
+[00:03:02] SUCCESS: Phase Execution - Completed in 13.870751ms
+[00:03:02] ERROR: File Copy - Could not copy from media.json: open output/books/book_001/phase4_media.json: no such file or directory
+[00:03:02] SUCCESS: Phase Processing - Phase 4 completed
+[00:03:03] PROGRESS: Phase Processing (5.7%) - Book 1 - Phase 5: Title Optimization & A/B Testing
+[00:03:03] PROGRESS: Phase Execution (0.0%) - Executing Phase 5
+[00:03:03] SUCCESS: Phase Execution - Completed in 15.186621ms
+[00:03:03] ERROR: File Copy - Could not copy from titles.json: open output/books/book_001/phase5_titles.json: no such file or directory
+[00:03:03] SUCCESS: Phase Processing - Phase 5 completed
+[00:03:04] PROGRESS: Phase Processing (7.1%) - Book 1 - Phase 6: Complete Content Generation
+[00:03:04] PROGRESS: Phase Execution (0.0%) - Executing Phase 6 Beta
+[00:03:33] IMPORTANT: 🛑 SIGTERM received - Forcing stop...
+[00:03:33] IMPORTANT: 🚨 Force stop initiated. Exiting immediately.

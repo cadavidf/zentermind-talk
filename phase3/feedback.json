@@ -1,0 +1,107 @@
+{
+  "timestamp": "2025-07-21T19:44:18-05:00",
+  "concept_title": "AI Leadership in 2026: The Future Executive's Guide - Practical Framework",
+  "reader_feedback": [
+    {
+      "persona": {
+        "name": "Sarah",
+        "age": 34,
+        "demographics": "Tech Executive",
+        "interests": "AI, Leadership",
+        "reading_style": "Practical"
+      },
+      "rating": 7.5,
+      "comment": "This concept really resonates with current industry needs",
+      "concerns": [
+        "Market timing",
+        "Competition"
+      ],
+      "engagement": 70
+    },
+    {
+      "persona": {
+        "name": "Mike",
+        "age": 42,
+        "demographics": "Middle Manager",
+        "interests": "Career Growth",
+        "reading_style": "Case Studies"
+      },
+      "rating": 7.8,
+      "comment": "Love the practical approach - exactly what leaders need",
+      "concerns": [
+        "Market timing",
+        "Competition"
+      ],
+      "engagement": 75
+    },
+    {
+      "persona": {
+        "name": "Lisa",
+        "age": 28,
+        "demographics": "Startup Founder",
+        "interests": "Innovation",
+        "reading_style": "Quick Insights"
+      },
+      "rating": 8.1,
+      "comment": "Great timing with AI adoption accelerating",
+      "concerns": [
+        "Market timing",
+        "Competition"
+      ],
+      "engagement": 80
+    },
+    {
+      "persona": {
+        "name": "David",
+        "age": 39,
+        "demographics": "Consultant",
+        "interests": "Strategy",
+        "reading_style": "Comprehensive"
+      },
+      "rating": 8.4,
+      "comment": "Could use more specific implementation examples",
+      "concerns": [
+        "Market timing",
+        "Competition"
+      ],
+      "engagement": 85
+    },
+    {
+      "persona": {
+        "name": "Emma",
+        "age": 31,
+        "demographics": "HR Director",
+        "interests": "Team Building",
+        "reading_style": "People-focused"
+      },
+      "rating": 8.7,
+      "comment": "Addresses a real gap in the market",
+      "concerns": [
+        "Market timing",
+        "Competition"
+      ],
+      "engagement": 90
+    }
+  ],
+  "viral_quotes": [
+    {
+      "text": "AI leadership isn't about replacing humans - it's about amplifying human potential",
+      "shareability_score": 87.5,
+      "platform": "LinkedIn"
+    },
+    {
+      "text": "The future belongs to leaders who can dance with artificial intelligence",
+      "shareability_score": 82.3,
+      "platform": "Twitter"
+    },
+    {
+      "text": "2026 will separate AI-native leaders from those still catching up",
+      "shareability_score": 79.8,
+      "platform": "LinkedIn"
+    }
+  ],
+  "overall_rating": 8.1,
+  "engagement_score": 80,
+  "shareability_score": 83.2,
+  "approved_for_next": true
+}

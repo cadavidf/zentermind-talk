@@ -1,0 +1,26 @@
+{
+  "book_number": 10,
+  "category": "Attention Economy \u0026 Mental Training",
+  "generated_at": "2025-07-21T20:05:50-05:00",
+  "memorable_phrase": "Attention is your scarcest resource.",
+  "outline_words": 205,
+  "output_files": [
+    "book_state.json",
+    "book_summary.json",
+    "complete_book.json",
+    "complete_book.md",
+    "outline_1000_words.json",
+    "outline_1000_words.md",
+    "phase1_progress.json",
+    "phase2_progress.json",
+    "phase3_progress.json",
+    "phase4_progress.json",
+    "phase5_progress.json",
+    "phase6_progress.json",
+    "phase7_progress.json"
+  ],
+  "phases_completed": 7,
+  "status": "completed",
+  "title": "Focus as Superpower",
+  "total_duration": "27m39.165830035s"
+}

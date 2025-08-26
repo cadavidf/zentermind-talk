@@ -1,0 +1,851 @@
+
+███████╗███████╗ ██████╗ ██╗   ██╗███████╗███╗   ██╗████████╗██╗ █████╗ ██╗     
+██╔════╝██╔════╝██╔═══██╗██║   ██║██╔════╝████╗  ██║╚══██╔══╝██║██╔══██╗██║     
+███████╗█████╗  ██║   ██║██║   ██║█████╗  ██╔██╗ ██║   ██║   ██║███████║██║     
+╚════██║██╔══╝  ██║▄▄ ██║██║   ██║██╔══╝  ██║╚██╗██║   ██║   ██║██╔══██║██║     
+███████║███████╗╚██████╔╝╚██████╔╝███████╗██║ ╚████║   ██║   ██║██║  ██║███████╗
+╚══════╝╚══════╝ ╚══▀▀═╝  ╚═════╝ ╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚═╝╚═╝  ╚═╝╚══════╝
+
+██████╗  ██████╗  ██████╗ ██╗  ██╗     ██████╗ ███████╗███╗   ██╗███████╗██████╗  █████╗ ████████╗ ██████╗ ██████╗ 
+██╔══██╗██╔═══██╗██╔═══██╗██║ ██╔╝    ██╔════╝ ██╔════╝████╗  ██║██╔════╝██╔══██╗██╔══██╗╚══██╔══╝██╔═══██╗██╔══██╗
+██████╔╝██║   ██║██║   ██║█████╔╝     ██║  ███╗█████╗  ██╔██╗ ██║█████╗  ██████╔╝███████║   ██║   ██║   ██║██████╔╝
+██╔══██╗██║   ██║██║   ██║██╔═██╗     ██║   ██║██╔══╝  ██║╚██╗██║██╔══╝  ██╔══██╗██╔══██║   ██║   ██║   ██║██╔══██╗
+██████╔╝╚██████╔╝╚██████╔╝██║  ██╗    ╚██████╔╝███████╗██║ ╚████║███████╗██║  ██║██║  ██║   ██║   ╚██████╔╝██║  ██║
+╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝     ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
+
+          🔄 SEQUENTIAL MULTI-PHASE BOOK GENERATION SYSTEM 🔄
+                        Co-authored by animality.ai
+
+🎯 Sequential Book Generation Configuration:
+   📚 Total books to generate: 10
+   🤖 AI Model: llama3.2
+   📁 Output directory: output/books
+   🔄 Phases per book: 7
+
+🎲 Selected book themes:
+   1. Your AI, Your Mirror (AI & Personal Development)
+      "Your AI doesn't replace you, it reflects you."
+   2. The Quiet Machine (Technology & Human Experience)
+      "Tech that whispers instead of shouts changes everything."
+   3. Conscious Code (AI Ethics & Philosophy)
+      "We programmed machines, then learned to program values."
+   4. Live Long, Live Well (Longevity & Health)
+      "Lifespan is nothing without healthspan."
+   5. Preventive Everything (Preventive Medicine & AI)
+      "The future of health is prevention, not correction."
+   6. The Regenerative Revolution (Sustainable Business & Environment)
+      "Regeneration became the cost of entry."
+   7. Waste to Wealth (Circular Economy & Innovation)
+      "Nothing is wasted in a living system."
+   8. Own Your Data, Own Your Life (Data Privacy & Digital Rights)
+      "Your data is your dignity."
+   9. The Infinite Canvas (Augmented Reality & User Experience)
+      "Reality became our new interface."
+   10. Focus as Superpower (Attention Economy & Mental Training)
+      "Attention is your scarcest resource."
+
+🚀 Starting sequential book generation...
+════════════════════════════════════════════════════════════════════
+
+📖 STARTING BOOK 1/10: Your AI, Your Mirror
+═══════════════════════════════════════════════════════════════════════════════
+
+📝 STEP 1: Generating 1000-word outline...
+📝 Generating 1000-word outline for: Your AI, Your Mirror
+💡 Memorable phrase: Your AI doesn't replace you, it reflects you.
+🏷️  Category: AI & Personal Development
+📚 Generating chapter structure...
+📖 Generated 6 chapters
+🔍 Generating supporting elements...
+💡 Generated 0 key concepts and 0 supporting points
+✅ Generated outline with 236 words and 6 chapters
+💾 Outline saved to output/books/book_001
+✅ Outline generated (236 words) and saved
+
+🔄 STEP 2: Processing through 7-phase pipeline...
+
+⚡ PHASE 1: Market Intelligence & USP Optimization
+📁 Directory: phase1_beta
+▶️  Executing Phase 1 Beta...
+⏱️  Completed in 18.62853ms
+📄 Output file created: usp_optimization.json
+⚠️  Warning: Could not copy output file: open output/books/book_001/phase1_usp_optimization.json: no such file or directory
+✅ Phase 1 completed successfully
+
+⚡ PHASE 2: Concept Generation & Validation
+📁 Directory: phase2
+▶️  Executing Phase 2...
+⏱️  Completed in 321.827484ms
+📄 Output file created: concepts.json
+⚠️  Warning: Could not copy output file: open output/books/book_001/phase2_concepts.json: no such file or directory
+✅ Phase 2 completed successfully
+
+⚡ PHASE 3: Reader Feedback & Shareability
+📁 Directory: phase3
+▶️  Executing Phase 3...
+⏱️  Completed in 265.457975ms
+📄 Output file created: feedback.json
+⚠️  Warning: Could not copy output file: open output/books/book_001/phase3_feedback.json: no such file or directory
+✅ Phase 3 completed successfully
+
+⚡ PHASE 4: Media Coverage & PR Analysis
+📁 Directory: phase4
+▶️  Executing Phase 4...
+⏱️  Completed in 270.23918ms
+📄 Output file created: media.json
+⚠️  Warning: Could not copy output file: open output/books/book_001/phase4_media.json: no such file or directory
+✅ Phase 4 completed successfully
+
+⚡ PHASE 5: Title Optimization & A/B Testing
+📁 Directory: phase5
+▶️  Executing Phase 5...
+⏱️  Completed in 274.452768ms
+📄 Output file created: titles.json
+⚠️  Warning: Could not copy output file: open output/books/book_001/phase5_titles.json: no such file or directory
+✅ Phase 5 completed successfully
+
+⚡ PHASE 6: Complete Content Generation
+📁 Directory: phase6_enhanced
+▶️  Executing Phase 6 Enhanced...
+⏱️  Completed in 337.165348ms
+⚠️  Warning: Expected output file not found: content.json
+✅ Phase 6 completed successfully
+
+⚡ PHASE 7: Marketing Assets & Campaign
+📁 Directory: phase7
+▶️  Executing Phase 7...
+⏱️  Completed in 3.029155046s
+📄 Output file created: marketing.json
+⚠️  Warning: Could not copy output file: open output/books/book_001/phase7_marketing.json: no such file or directory
+✅ Phase 7 completed successfully
+
+📚 STEP 3: Finalizing book...
+⏱️  Total generation time: 2m34.459180577s
+📋 Book summary saved
+✅ BOOK 1 COMPLETED SUCCESSFULLY!
+📁 Output saved to: output/books/book_001
+═══════════════════════════════════════════════════════════════════════════════
+⏸️  Pausing 3 seconds before next book...
+
+📖 STARTING BOOK 2/10: The Quiet Machine
+═══════════════════════════════════════════════════════════════════════════════
+
+📝 STEP 1: Generating 1000-word outline...
+📝 Generating 1000-word outline for: The Quiet Machine
+💡 Memorable phrase: Tech that whispers instead of shouts changes everything.
+🏷️  Category: Technology & Human Experience
+📚 Generating chapter structure...
+📖 Generated 6 chapters
+🔍 Generating supporting elements...
+💡 Generated 0 key concepts and 0 supporting points
+✅ Generated outline with 445 words and 6 chapters
+💾 Outline saved to output/books/book_002
+✅ Outline generated (445 words) and saved
+
+🔄 STEP 2: Processing through 7-phase pipeline...
+
+⚡ PHASE 1: Market Intelligence & USP Optimization
+📁 Directory: phase1_beta
+▶️  Executing Phase 1 Beta...
+⏱️  Completed in 13.714992ms
+📄 Output file created: usp_optimization.json
+⚠️  Warning: Could not copy output file: open output/books/book_002/phase1_usp_optimization.json: no such file or directory
+✅ Phase 1 completed successfully
+
+⚡ PHASE 2: Concept Generation & Validation
+📁 Directory: phase2
+▶️  Executing Phase 2...
+⏱️  Completed in 8.995044ms
+📄 Output file created: concepts.json
+⚠️  Warning: Could not copy output file: open output/books/book_002/phase2_concepts.json: no such file or directory
+✅ Phase 2 completed successfully
+
+⚡ PHASE 3: Reader Feedback & Shareability
+📁 Directory: phase3
+▶️  Executing Phase 3...
+⏱️  Completed in 6.09252ms
+📄 Output file created: feedback.json
+⚠️  Warning: Could not copy output file: open output/books/book_002/phase3_feedback.json: no such file or directory
+✅ Phase 3 completed successfully
+
+⚡ PHASE 4: Media Coverage & PR Analysis
+📁 Directory: phase4
+▶️  Executing Phase 4...
+⏱️  Completed in 6.870911ms
+📄 Output file created: media.json
+⚠️  Warning: Could not copy output file: open output/books/book_002/phase4_media.json: no such file or directory
+✅ Phase 4 completed successfully
+
+⚡ PHASE 5: Title Optimization & A/B Testing
+📁 Directory: phase5
+▶️  Executing Phase 5...
+⏱️  Completed in 6.751562ms
+📄 Output file created: titles.json
+⚠️  Warning: Could not copy output file: open output/books/book_002/phase5_titles.json: no such file or directory
+✅ Phase 5 completed successfully
+
+⚡ PHASE 6: Complete Content Generation
+📁 Directory: phase6_enhanced
+▶️  Executing Phase 6 Enhanced...
+⏱️  Completed in 10.474318ms
+⚠️  Warning: Expected output file not found: content.json
+✅ Phase 6 completed successfully
+
+⚡ PHASE 7: Marketing Assets & Campaign
+📁 Directory: phase7
+▶️  Executing Phase 7...
+⏱️  Completed in 6.671566ms
+📄 Output file created: marketing.json
+⚠️  Warning: Could not copy output file: open output/books/book_002/phase7_marketing.json: no such file or directory
+✅ Phase 7 completed successfully
+
+📚 STEP 3: Finalizing book...
+⏱️  Total generation time: 2m1.725483851s
+📋 Book summary saved
+✅ BOOK 2 COMPLETED SUCCESSFULLY!
+📁 Output saved to: output/books/book_002
+═══════════════════════════════════════════════════════════════════════════════
+⏸️  Pausing 3 seconds before next book...
+
+📖 STARTING BOOK 3/10: Conscious Code
+═══════════════════════════════════════════════════════════════════════════════
+
+📝 STEP 1: Generating 1000-word outline...
+📝 Generating 1000-word outline for: Conscious Code
+💡 Memorable phrase: We programmed machines, then learned to program values.
+🏷️  Category: AI Ethics & Philosophy
+📚 Generating chapter structure...
+📖 Generated 6 chapters
+🔍 Generating supporting elements...
+💡 Generated 0 key concepts and 0 supporting points
+✅ Generated outline with 221 words and 6 chapters
+💾 Outline saved to output/books/book_003
+✅ Outline generated (221 words) and saved
+
+🔄 STEP 2: Processing through 7-phase pipeline...
+
+⚡ PHASE 1: Market Intelligence & USP Optimization
+📁 Directory: phase1_beta
+▶️  Executing Phase 1 Beta...
+⏱️  Completed in 13.362692ms
+📄 Output file created: usp_optimization.json
+⚠️  Warning: Could not copy output file: open output/books/book_003/phase1_usp_optimization.json: no such file or directory
+✅ Phase 1 completed successfully
+
+⚡ PHASE 2: Concept Generation & Validation
+📁 Directory: phase2
+▶️  Executing Phase 2...
+⏱️  Completed in 5.015882ms
+📄 Output file created: concepts.json
+⚠️  Warning: Could not copy output file: open output/books/book_003/phase2_concepts.json: no such file or directory
+✅ Phase 2 completed successfully
+
+⚡ PHASE 3: Reader Feedback & Shareability
+📁 Directory: phase3
+▶️  Executing Phase 3...
+⏱️  Completed in 6.476323ms
+📄 Output file created: feedback.json
+⚠️  Warning: Could not copy output file: open output/books/book_003/phase3_feedback.json: no such file or directory
+✅ Phase 3 completed successfully
+
+⚡ PHASE 4: Media Coverage & PR Analysis
+📁 Directory: phase4
+▶️  Executing Phase 4...
+⏱️  Completed in 5.442887ms
+📄 Output file created: media.json
+⚠️  Warning: Could not copy output file: open output/books/book_003/phase4_media.json: no such file or directory
+✅ Phase 4 completed successfully
+
+⚡ PHASE 5: Title Optimization & A/B Testing
+📁 Directory: phase5
+▶️  Executing Phase 5...
+⏱️  Completed in 5.4845ms
+📄 Output file created: titles.json
+⚠️  Warning: Could not copy output file: open output/books/book_003/phase5_titles.json: no such file or directory
+✅ Phase 5 completed successfully
+
+⚡ PHASE 6: Complete Content Generation
+📁 Directory: phase6_enhanced
+▶️  Executing Phase 6 Enhanced...
+⏱️  Completed in 7.546252ms
+⚠️  Warning: Expected output file not found: content.json
+✅ Phase 6 completed successfully
+
+⚡ PHASE 7: Marketing Assets & Campaign
+📁 Directory: phase7
+▶️  Executing Phase 7...
+⏱️  Completed in 7.894662ms
+📄 Output file created: marketing.json
+⚠️  Warning: Could not copy output file: open output/books/book_003/phase7_marketing.json: no such file or directory
+✅ Phase 7 completed successfully
+
+📚 STEP 3: Finalizing book...
+⏱️  Total generation time: 2m7.046048696s
+📋 Book summary saved
+✅ BOOK 3 COMPLETED SUCCESSFULLY!
+📁 Output saved to: output/books/book_003
+═══════════════════════════════════════════════════════════════════════════════
+⏸️  Pausing 3 seconds before next book...
+
+📖 STARTING BOOK 4/10: Live Long, Live Well
+═══════════════════════════════════════════════════════════════════════════════
+
+📝 STEP 1: Generating 1000-word outline...
+📝 Generating 1000-word outline for: Live Long, Live Well
+💡 Memorable phrase: Lifespan is nothing without healthspan.
+🏷️  Category: Longevity & Health
+📚 Generating chapter structure...
+📖 Generated 6 chapters
+🔍 Generating supporting elements...
+💡 Generated 0 key concepts and 0 supporting points
+✅ Generated outline with 390 words and 6 chapters
+💾 Outline saved to output/books/book_004
+✅ Outline generated (390 words) and saved
+
+🔄 STEP 2: Processing through 7-phase pipeline...
+
+⚡ PHASE 1: Market Intelligence & USP Optimization
+📁 Directory: phase1_beta
+▶️  Executing Phase 1 Beta...
+⏱️  Completed in 12.659808ms
+📄 Output file created: usp_optimization.json
+⚠️  Warning: Could not copy output file: open output/books/book_004/phase1_usp_optimization.json: no such file or directory
+✅ Phase 1 completed successfully
+
+⚡ PHASE 2: Concept Generation & Validation
+📁 Directory: phase2
+▶️  Executing Phase 2...
+⏱️  Completed in 7.119451ms
+📄 Output file created: concepts.json
+⚠️  Warning: Could not copy output file: open output/books/book_004/phase2_concepts.json: no such file or directory
+✅ Phase 2 completed successfully
+
+⚡ PHASE 3: Reader Feedback & Shareability
+📁 Directory: phase3
+▶️  Executing Phase 3...
+⏱️  Completed in 6.954996ms
+📄 Output file created: feedback.json
+⚠️  Warning: Could not copy output file: open output/books/book_004/phase3_feedback.json: no such file or directory
+✅ Phase 3 completed successfully
+
+⚡ PHASE 4: Media Coverage & PR Analysis
+📁 Directory: phase4
+▶️  Executing Phase 4...
+⏱️  Completed in 6.775395ms
+📄 Output file created: media.json
+⚠️  Warning: Could not copy output file: open output/books/book_004/phase4_media.json: no such file or directory
+✅ Phase 4 completed successfully
+
+⚡ PHASE 5: Title Optimization & A/B Testing
+📁 Directory: phase5
+▶️  Executing Phase 5...
+⏱️  Completed in 7.041011ms
+📄 Output file created: titles.json
+⚠️  Warning: Could not copy output file: open output/books/book_004/phase5_titles.json: no such file or directory
+✅ Phase 5 completed successfully
+
+⚡ PHASE 6: Complete Content Generation
+📁 Directory: phase6_enhanced
+▶️  Executing Phase 6 Enhanced...
+⏱️  Completed in 9.076993ms
+⚠️  Warning: Expected output file not found: content.json
+✅ Phase 6 completed successfully
+
+⚡ PHASE 7: Marketing Assets & Campaign
+📁 Directory: phase7
+▶️  Executing Phase 7...
+⏱️  Completed in 7.947339ms
+📄 Output file created: marketing.json
+⚠️  Warning: Could not copy output file: open output/books/book_004/phase7_marketing.json: no such file or directory
+✅ Phase 7 completed successfully
+
+📚 STEP 3: Finalizing book...
+⏱️  Total generation time: 2m9.105913807s
+📋 Book summary saved
+✅ BOOK 4 COMPLETED SUCCESSFULLY!
+📁 Output saved to: output/books/book_004
+═══════════════════════════════════════════════════════════════════════════════
+⏸️  Pausing 3 seconds before next book...
+
+📖 STARTING BOOK 5/10: Preventive Everything
+═══════════════════════════════════════════════════════════════════════════════
+
+📝 STEP 1: Generating 1000-word outline...
+📝 Generating 1000-word outline for: Preventive Everything
+💡 Memorable phrase: The future of health is prevention, not correction.
+🏷️  Category: Preventive Medicine & AI
+📚 Generating chapter structure...
+📖 Generated 6 chapters
+🔍 Generating supporting elements...
+💡 Generated 0 key concepts and 0 supporting points
+✅ Generated outline with 358 words and 6 chapters
+💾 Outline saved to output/books/book_005
+✅ Outline generated (358 words) and saved
+
+🔄 STEP 2: Processing through 7-phase pipeline...
+
+⚡ PHASE 1: Market Intelligence & USP Optimization
+📁 Directory: phase1_beta
+▶️  Executing Phase 1 Beta...
+⏱️  Completed in 12.554815ms
+📄 Output file created: usp_optimization.json
+⚠️  Warning: Could not copy output file: open output/books/book_005/phase1_usp_optimization.json: no such file or directory
+✅ Phase 1 completed successfully
+
+⚡ PHASE 2: Concept Generation & Validation
+📁 Directory: phase2
+▶️  Executing Phase 2...
+⏱️  Completed in 7.315211ms
+📄 Output file created: concepts.json
+⚠️  Warning: Could not copy output file: open output/books/book_005/phase2_concepts.json: no such file or directory
+✅ Phase 2 completed successfully
+
+⚡ PHASE 3: Reader Feedback & Shareability
+📁 Directory: phase3
+▶️  Executing Phase 3...
+⏱️  Completed in 6.839819ms
+📄 Output file created: feedback.json
+⚠️  Warning: Could not copy output file: open output/books/book_005/phase3_feedback.json: no such file or directory
+✅ Phase 3 completed successfully
+
+⚡ PHASE 4: Media Coverage & PR Analysis
+📁 Directory: phase4
+▶️  Executing Phase 4...
+⏱️  Completed in 6.875941ms
+📄 Output file created: media.json
+⚠️  Warning: Could not copy output file: open output/books/book_005/phase4_media.json: no such file or directory
+✅ Phase 4 completed successfully
+
+⚡ PHASE 5: Title Optimization & A/B Testing
+📁 Directory: phase5
+▶️  Executing Phase 5...
+⏱️  Completed in 6.861626ms
+📄 Output file created: titles.json
+⚠️  Warning: Could not copy output file: open output/books/book_005/phase5_titles.json: no such file or directory
+✅ Phase 5 completed successfully
+
+⚡ PHASE 6: Complete Content Generation
+📁 Directory: phase6_enhanced
+▶️  Executing Phase 6 Enhanced...
+⏱️  Completed in 9.188642ms
+⚠️  Warning: Expected output file not found: content.json
+✅ Phase 6 completed successfully
+
+⚡ PHASE 7: Marketing Assets & Campaign
+📁 Directory: phase7
+▶️  Executing Phase 7...
+⏱️  Completed in 8.618683ms
+📄 Output file created: marketing.json
+⚠️  Warning: Could not copy output file: open output/books/book_005/phase7_marketing.json: no such file or directory
+✅ Phase 7 completed successfully
+
+📚 STEP 3: Finalizing book...
+⏱️  Total generation time: 1m51.846435665s
+📋 Book summary saved
+✅ BOOK 5 COMPLETED SUCCESSFULLY!
+📁 Output saved to: output/books/book_005
+═══════════════════════════════════════════════════════════════════════════════
+⏸️  Pausing 3 seconds before next book...
+
+📖 STARTING BOOK 6/10: The Regenerative Revolution
+═══════════════════════════════════════════════════════════════════════════════
+
+📝 STEP 1: Generating 1000-word outline...
+📝 Generating 1000-word outline for: The Regenerative Revolution
+💡 Memorable phrase: Regeneration became the cost of entry.
+🏷️  Category: Sustainable Business & Environment
+📚 Generating chapter structure...
+📖 Generated 6 chapters
+🔍 Generating supporting elements...
+💡 Generated 0 key concepts and 0 supporting points
+✅ Generated outline with 387 words and 6 chapters
+💾 Outline saved to output/books/book_006
+✅ Outline generated (387 words) and saved
+
+🔄 STEP 2: Processing through 7-phase pipeline...
+
+⚡ PHASE 1: Market Intelligence & USP Optimization
+📁 Directory: phase1_beta
+▶️  Executing Phase 1 Beta...
+⏱️  Completed in 12.400825ms
+📄 Output file created: usp_optimization.json
+⚠️  Warning: Could not copy output file: open output/books/book_006/phase1_usp_optimization.json: no such file or directory
+✅ Phase 1 completed successfully
+
+⚡ PHASE 2: Concept Generation & Validation
+📁 Directory: phase2
+▶️  Executing Phase 2...
+⏱️  Completed in 6.734224ms
+📄 Output file created: concepts.json
+⚠️  Warning: Could not copy output file: open output/books/book_006/phase2_concepts.json: no such file or directory
+✅ Phase 2 completed successfully
+
+⚡ PHASE 3: Reader Feedback & Shareability
+📁 Directory: phase3
+▶️  Executing Phase 3...
+⏱️  Completed in 5.17431ms
+📄 Output file created: feedback.json
+⚠️  Warning: Could not copy output file: open output/books/book_006/phase3_feedback.json: no such file or directory
+✅ Phase 3 completed successfully
+
+⚡ PHASE 4: Media Coverage & PR Analysis
+📁 Directory: phase4
+▶️  Executing Phase 4...
+⏱️  Completed in 6.729786ms
+📄 Output file created: media.json
+⚠️  Warning: Could not copy output file: open output/books/book_006/phase4_media.json: no such file or directory
+✅ Phase 4 completed successfully
+
+⚡ PHASE 5: Title Optimization & A/B Testing
+📁 Directory: phase5
+▶️  Executing Phase 5...
+⏱️  Completed in 7.001017ms
+📄 Output file created: titles.json
+⚠️  Warning: Could not copy output file: open output/books/book_006/phase5_titles.json: no such file or directory
+✅ Phase 5 completed successfully
+
+⚡ PHASE 6: Complete Content Generation
+📁 Directory: phase6_enhanced
+▶️  Executing Phase 6 Enhanced...
+⏱️  Completed in 9.241371ms
+⚠️  Warning: Expected output file not found: content.json
+✅ Phase 6 completed successfully
+
+⚡ PHASE 7: Marketing Assets & Campaign
+📁 Directory: phase7
+▶️  Executing Phase 7...
+⏱️  Completed in 7.348909ms
+📄 Output file created: marketing.json
+⚠️  Warning: Could not copy output file: open output/books/book_006/phase7_marketing.json: no such file or directory
+✅ Phase 7 completed successfully
+
+📚 STEP 3: Finalizing book...
+⏱️  Total generation time: 2m0.988214782s
+📋 Book summary saved
+✅ BOOK 6 COMPLETED SUCCESSFULLY!
+📁 Output saved to: output/books/book_006
+═══════════════════════════════════════════════════════════════════════════════
+⏸️  Pausing 3 seconds before next book...
+
+📖 STARTING BOOK 7/10: Waste to Wealth
+═══════════════════════════════════════════════════════════════════════════════
+
+📝 STEP 1: Generating 1000-word outline...
+📝 Generating 1000-word outline for: Waste to Wealth
+💡 Memorable phrase: Nothing is wasted in a living system.
+🏷️  Category: Circular Economy & Innovation
+📚 Generating chapter structure...
+📖 Generated 6 chapters
+🔍 Generating supporting elements...
+💡 Generated 0 key concepts and 0 supporting points
+✅ Generated outline with 403 words and 6 chapters
+💾 Outline saved to output/books/book_007
+✅ Outline generated (403 words) and saved
+
+🔄 STEP 2: Processing through 7-phase pipeline...
+
+⚡ PHASE 1: Market Intelligence & USP Optimization
+📁 Directory: phase1_beta
+▶️  Executing Phase 1 Beta...
+⏱️  Completed in 12.692104ms
+📄 Output file created: usp_optimization.json
+⚠️  Warning: Could not copy output file: open output/books/book_007/phase1_usp_optimization.json: no such file or directory
+✅ Phase 1 completed successfully
+
+⚡ PHASE 2: Concept Generation & Validation
+📁 Directory: phase2
+▶️  Executing Phase 2...
+⏱️  Completed in 6.884089ms
+📄 Output file created: concepts.json
+⚠️  Warning: Could not copy output file: open output/books/book_007/phase2_concepts.json: no such file or directory
+✅ Phase 2 completed successfully
+
+⚡ PHASE 3: Reader Feedback & Shareability
+📁 Directory: phase3
+▶️  Executing Phase 3...
+⏱️  Completed in 6.940149ms
+📄 Output file created: feedback.json
+⚠️  Warning: Could not copy output file: open output/books/book_007/phase3_feedback.json: no such file or directory
+✅ Phase 3 completed successfully
+
+⚡ PHASE 4: Media Coverage & PR Analysis
+📁 Directory: phase4
+▶️  Executing Phase 4...
+⏱️  Completed in 6.999591ms
+📄 Output file created: media.json
+⚠️  Warning: Could not copy output file: open output/books/book_007/phase4_media.json: no such file or directory
+✅ Phase 4 completed successfully
+
+⚡ PHASE 5: Title Optimization & A/B Testing
+📁 Directory: phase5
+▶️  Executing Phase 5...
+⏱️  Completed in 6.695772ms
+📄 Output file created: titles.json
+⚠️  Warning: Could not copy output file: open output/books/book_007/phase5_titles.json: no such file or directory
+✅ Phase 5 completed successfully
+
+⚡ PHASE 6: Complete Content Generation
+📁 Directory: phase6_enhanced
+▶️  Executing Phase 6 Enhanced...
+⏱️  Completed in 9.151554ms
+⚠️  Warning: Expected output file not found: content.json
+✅ Phase 6 completed successfully
+
+⚡ PHASE 7: Marketing Assets & Campaign
+📁 Directory: phase7
+▶️  Executing Phase 7...
+⏱️  Completed in 7.767ms
+📄 Output file created: marketing.json
+⚠️  Warning: Could not copy output file: open output/books/book_007/phase7_marketing.json: no such file or directory
+✅ Phase 7 completed successfully
+
+📚 STEP 3: Finalizing book...
+⏱️  Total generation time: 1m58.409228856s
+📋 Book summary saved
+✅ BOOK 7 COMPLETED SUCCESSFULLY!
+📁 Output saved to: output/books/book_007
+═══════════════════════════════════════════════════════════════════════════════
+⏸️  Pausing 3 seconds before next book...
+
+📖 STARTING BOOK 8/10: Own Your Data, Own Your Life
+═══════════════════════════════════════════════════════════════════════════════
+
+📝 STEP 1: Generating 1000-word outline...
+📝 Generating 1000-word outline for: Own Your Data, Own Your Life
+💡 Memorable phrase: Your data is your dignity.
+🏷️  Category: Data Privacy & Digital Rights
+📚 Generating chapter structure...
+📖 Generated 6 chapters
+🔍 Generating supporting elements...
+💡 Generated 0 key concepts and 0 supporting points
+✅ Generated outline with 419 words and 6 chapters
+💾 Outline saved to output/books/book_008
+✅ Outline generated (419 words) and saved
+
+🔄 STEP 2: Processing through 7-phase pipeline...
+
+⚡ PHASE 1: Market Intelligence & USP Optimization
+📁 Directory: phase1_beta
+▶️  Executing Phase 1 Beta...
+⏱️  Completed in 34.744604ms
+📄 Output file created: usp_optimization.json
+⚠️  Warning: Could not copy output file: open output/books/book_008/phase1_usp_optimization.json: no such file or directory
+✅ Phase 1 completed successfully
+
+⚡ PHASE 2: Concept Generation & Validation
+📁 Directory: phase2
+▶️  Executing Phase 2...
+⏱️  Completed in 13.899277ms
+📄 Output file created: concepts.json
+⚠️  Warning: Could not copy output file: open output/books/book_008/phase2_concepts.json: no such file or directory
+✅ Phase 2 completed successfully
+
+⚡ PHASE 3: Reader Feedback & Shareability
+📁 Directory: phase3
+▶️  Executing Phase 3...
+⏱️  Completed in 13.913307ms
+📄 Output file created: feedback.json
+⚠️  Warning: Could not copy output file: open output/books/book_008/phase3_feedback.json: no such file or directory
+✅ Phase 3 completed successfully
+
+⚡ PHASE 4: Media Coverage & PR Analysis
+📁 Directory: phase4
+▶️  Executing Phase 4...
+⏱️  Completed in 14.960994ms
+📄 Output file created: media.json
+⚠️  Warning: Could not copy output file: open output/books/book_008/phase4_media.json: no such file or directory
+✅ Phase 4 completed successfully
+
+⚡ PHASE 5: Title Optimization & A/B Testing
+📁 Directory: phase5
+▶️  Executing Phase 5...
+⏱️  Completed in 15.003538ms
+📄 Output file created: titles.json
+⚠️  Warning: Could not copy output file: open output/books/book_008/phase5_titles.json: no such file or directory
+✅ Phase 5 completed successfully
+
+⚡ PHASE 6: Complete Content Generation
+📁 Directory: phase6_enhanced
+▶️  Executing Phase 6 Enhanced...
+⏱️  Completed in 15.115016ms
+⚠️  Warning: Expected output file not found: content.json
+✅ Phase 6 completed successfully
+
+⚡ PHASE 7: Marketing Assets & Campaign
+📁 Directory: phase7
+▶️  Executing Phase 7...
+⏱️  Completed in 15.836333ms
+📄 Output file created: marketing.json
+⚠️  Warning: Could not copy output file: open output/books/book_008/phase7_marketing.json: no such file or directory
+✅ Phase 7 completed successfully
+
+📚 STEP 3: Finalizing book...
+⏱️  Total generation time: 4m47.284830858s
+📋 Book summary saved
+✅ BOOK 8 COMPLETED SUCCESSFULLY!
+📁 Output saved to: output/books/book_008
+═══════════════════════════════════════════════════════════════════════════════
+⏸️  Pausing 3 seconds before next book...
+
+📖 STARTING BOOK 9/10: The Infinite Canvas
+═══════════════════════════════════════════════════════════════════════════════
+
+📝 STEP 1: Generating 1000-word outline...
+📝 Generating 1000-word outline for: The Infinite Canvas
+💡 Memorable phrase: Reality became our new interface.
+🏷️  Category: Augmented Reality & User Experience
+📚 Generating chapter structure...
+📖 Generated 6 chapters
+🔍 Generating supporting elements...
+💡 Generated 0 key concepts and 0 supporting points
+✅ Generated outline with 213 words and 6 chapters
+💾 Outline saved to output/books/book_009
+✅ Outline generated (213 words) and saved
+
+🔄 STEP 2: Processing through 7-phase pipeline...
+
+⚡ PHASE 1: Market Intelligence & USP Optimization
+📁 Directory: phase1_beta
+▶️  Executing Phase 1 Beta...
+⏱️  Completed in 30.79503ms
+📄 Output file created: usp_optimization.json
+⚠️  Warning: Could not copy output file: open output/books/book_009/phase1_usp_optimization.json: no such file or directory
+✅ Phase 1 completed successfully
+
+⚡ PHASE 2: Concept Generation & Validation
+📁 Directory: phase2
+▶️  Executing Phase 2...
+⏱️  Completed in 17.133662ms
+📄 Output file created: concepts.json
+⚠️  Warning: Could not copy output file: open output/books/book_009/phase2_concepts.json: no such file or directory
+✅ Phase 2 completed successfully
+
+⚡ PHASE 3: Reader Feedback & Shareability
+📁 Directory: phase3
+▶️  Executing Phase 3...
+⏱️  Completed in 12.894934ms
+📄 Output file created: feedback.json
+⚠️  Warning: Could not copy output file: open output/books/book_009/phase3_feedback.json: no such file or directory
+✅ Phase 3 completed successfully
+
+⚡ PHASE 4: Media Coverage & PR Analysis
+📁 Directory: phase4
+▶️  Executing Phase 4...
+⏱️  Completed in 13.904127ms
+📄 Output file created: media.json
+⚠️  Warning: Could not copy output file: open output/books/book_009/phase4_media.json: no such file or directory
+✅ Phase 4 completed successfully
+
+⚡ PHASE 5: Title Optimization & A/B Testing
+📁 Directory: phase5
+▶️  Executing Phase 5...
+⏱️  Completed in 13.12525ms
+📄 Output file created: titles.json
+⚠️  Warning: Could not copy output file: open output/books/book_009/phase5_titles.json: no such file or directory
+✅ Phase 5 completed successfully
+
+⚡ PHASE 6: Complete Content Generation
+📁 Directory: phase6_enhanced
+▶️  Executing Phase 6 Enhanced...
+⏱️  Completed in 21.395075ms
+⚠️  Warning: Expected output file not found: content.json
+✅ Phase 6 completed successfully
+
+⚡ PHASE 7: Marketing Assets & Campaign
+📁 Directory: phase7
+▶️  Executing Phase 7...
+⏱️  Completed in 17.528643ms
+📄 Output file created: marketing.json
+⚠️  Warning: Could not copy output file: open output/books/book_009/phase7_marketing.json: no such file or directory
+✅ Phase 7 completed successfully
+
+📚 STEP 3: Finalizing book...
+⏱️  Total generation time: 3m52.045287508s
+📋 Book summary saved
+✅ BOOK 9 COMPLETED SUCCESSFULLY!
+📁 Output saved to: output/books/book_009
+═══════════════════════════════════════════════════════════════════════════════
+⏸️  Pausing 3 seconds before next book...
+
+📖 STARTING BOOK 10/10: Focus as Superpower
+═══════════════════════════════════════════════════════════════════════════════
+
+📝 STEP 1: Generating 1000-word outline...
+📝 Generating 1000-word outline for: Focus as Superpower
+💡 Memorable phrase: Attention is your scarcest resource.
+🏷️  Category: Attention Economy & Mental Training
+📚 Generating chapter structure...
+📖 Generated 6 chapters
+🔍 Generating supporting elements...
+💡 Generated 5 key concepts and 5 supporting points
+✅ Generated outline with 492 words and 6 chapters
+💾 Outline saved to output/books/book_010
+✅ Outline generated (492 words) and saved
+
+🔄 STEP 2: Processing through 7-phase pipeline...
+
+⚡ PHASE 1: Market Intelligence & USP Optimization
+📁 Directory: phase1_beta
+▶️  Executing Phase 1 Beta...
+⏱️  Completed in 14.43281ms
+📄 Output file created: usp_optimization.json
+⚠️  Warning: Could not copy output file: open output/books/book_010/phase1_usp_optimization.json: no such file or directory
+✅ Phase 1 completed successfully
+
+⚡ PHASE 2: Concept Generation & Validation
+📁 Directory: phase2
+▶️  Executing Phase 2...
+⏱️  Completed in 6.937975ms
+📄 Output file created: concepts.json
+⚠️  Warning: Could not copy output file: open output/books/book_010/phase2_concepts.json: no such file or directory
+✅ Phase 2 completed successfully
+
+⚡ PHASE 3: Reader Feedback & Shareability
+📁 Directory: phase3
+▶️  Executing Phase 3...
+⏱️  Completed in 5.736268ms
+📄 Output file created: feedback.json
+⚠️  Warning: Could not copy output file: open output/books/book_010/phase3_feedback.json: no such file or directory
+✅ Phase 3 completed successfully
+
+⚡ PHASE 4: Media Coverage & PR Analysis
+📁 Directory: phase4
+▶️  Executing Phase 4...
+⏱️  Completed in 6.928536ms
+📄 Output file created: media.json
+⚠️  Warning: Could not copy output file: open output/books/book_010/phase4_media.json: no such file or directory
+✅ Phase 4 completed successfully
+
+⚡ PHASE 5: Title Optimization & A/B Testing
+📁 Directory: phase5
+▶️  Executing Phase 5...
+⏱️  Completed in 7.059328ms
+📄 Output file created: titles.json
+⚠️  Warning: Could not copy output file: open output/books/book_010/phase5_titles.json: no such file or directory
+✅ Phase 5 completed successfully
+
+⚡ PHASE 6: Complete Content Generation
+📁 Directory: phase6_enhanced
+▶️  Executing Phase 6 Enhanced...
+⏱️  Completed in 9.406786ms
+⚠️  Warning: Expected output file not found: content.json
+✅ Phase 6 completed successfully
+
+⚡ PHASE 7: Marketing Assets & Campaign
+📁 Directory: phase7
+▶️  Executing Phase 7...
+⏱️  Completed in 7.759465ms
+📄 Output file created: marketing.json
+⚠️  Warning: Could not copy output file: open output/books/book_010/phase7_marketing.json: no such file or directory
+✅ Phase 7 completed successfully
+
+📚 STEP 3: Finalizing book...
+⏱️  Total generation time: 2m1.609432941s
+📋 Book summary saved
+✅ BOOK 10 COMPLETED SUCCESSFULLY!
+📁 Output saved to: output/books/book_010
+═══════════════════════════════════════════════════════════════════════════════
+
+🎊 SEQUENTIAL BOOK GENERATION COMPLETE! 🎊
+📚 Generated 10 books through complete 7-phase pipeline
+📁 All books available in: output/books

@@ -1,0 +1,116 @@
+{
+  "model": "llama3.2",
+  "book_queue": null,
+  "current_book": 0,
+  "total_books": 10,
+  "output_dir": "output/books",
+  "phases": [
+    {
+      "number": 1,
+      "name": "Phase 1 Beta",
+      "directory": "phase1_beta",
+      "description": "Market Intelligence \u0026 USP Optimization",
+      "input_file": "",
+      "output_file": "usp_optimization.json"
+    },
+    {
+      "number": 2,
+      "name": "Phase 2",
+      "directory": "phase2",
+      "description": "Concept Generation \u0026 Validation",
+      "input_file": "usp_optimization.json",
+      "output_file": "concepts.json"
+    },
+    {
+      "number": 3,
+      "name": "Phase 3",
+      "directory": "phase3",
+      "description": "Reader Feedback \u0026 Shareability",
+      "input_file": "concepts.json",
+      "output_file": "feedback.json"
+    },
+    {
+      "number": 4,
+      "name": "Phase 4",
+      "directory": "phase4",
+      "description": "Media Coverage \u0026 PR Analysis",
+      "input_file": "feedback.json",
+      "output_file": "media.json"
+    },
+    {
+      "number": 5,
+      "name": "Phase 5",
+      "directory": "phase5",
+      "description": "Title Optimization \u0026 A/B Testing",
+      "input_file": "media.json",
+      "output_file": "titles.json"
+    },
+    {
+      "number": 6,
+      "name": "Phase 6 Beta",
+      "directory": "phase6_beta",
+      "description": "Complete Content Generation",
+      "input_file": "titles.json",
+      "output_file": "content.json"
+    },
+    {
+      "number": 7,
+      "name": "Phase 7",
+      "directory": "phase7",
+      "description": "Marketing Assets \u0026 Campaign",
+      "input_file": "content.json",
+      "output_file": "marketing.json"
+    }
+  ],
+  "progress_tracker": {
+    "session_id": "session_1753074041",
+    "start_time": "2025-07-21T00:00:41.516895-05:00",
+    "last_update_time": "2025-07-21T00:00:41.516895-05:00",
+    "total_books": 10,
+    "completed_books": 0,
+    "current_book": null,
+    "book_history": [],
+    "system_metrics": {
+      "total_execution_time": "",
+      "average_book_time": "",
+      "success_rate": 0,
+      "total_output_files": 0,
+      "total_disk_usage_mb": 0,
+      "peak_memory_usage_mb": 0,
+      "total_llm_tokens": 0,
+      "system_load": 0
+    },
+    "configuration": {
+      "auto_save_interval": 30000000000,
+      "detailed_logging": true,
+      "resource_monitoring": true,
+      "backup_state_files": true,
+      "max_retry_attempts": 3,
+      "output_directory": "output/books"
+    },
+    "state_file": "output/books/progress_tracker_state.json"
+  },
+  "session_state": {
+    "session_id": "session_1753074041",
+    "start_time": "2025-07-21T00:00:41.519297-05:00",
+    "last_save_time": "2025-07-21T00:00:41.519297-05:00",
+    "current_operation": "initializing",
+    "books_completed": [],
+    "books_failed": [],
+    "current_book_state": null,
+    "can_resume": true,
+    "resume_point": {
+      "book_number": 1,
+      "phase_number": 1,
+      "operation": "start",
+      "completed_steps": [],
+      "next_steps": [
+        "load_themes",
+        "setup_phases",
+        "start_generation"
+      ]
+    }
+  },
+  "chunk_size": 3,
+  "auto_save_interval": 30000000000
+}

@@ -1,0 +1,23 @@
+{
+  "book_number": 3,
+  "category": "AI Ethics \u0026 Philosophy",
+  "generated_at": "2025-07-12T15:24:39-05:00",
+  "memorable_phrase": "We programmed machines, then learned to program values.",
+  "outline_words": 221,
+  "output_files": [
+    "book_state.json",
+    "outline_1000_words.json",
+    "outline_1000_words.md",
+    "phase1_progress.json",
+    "phase2_progress.json",
+    "phase3_progress.json",
+    "phase4_progress.json",
+    "phase5_progress.json",
+    "phase6_progress.json",
+    "phase7_progress.json"
+  ],
+  "phases_completed": 7,
+  "status": "completed",
+  "title": "Conscious Code",
+  "total_duration": "2m7.046048696s"
+}

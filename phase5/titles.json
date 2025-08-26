@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-07-21T19:44:20-05:00",
+  "original_title": "AI Leadership in 2026: The Future Executive's Guide - Practical Framework",
+  "title_variations": [
+    {
+      "title": "AI Leadership in 2026: The Future Executive's Guide - Practical Framework",
+      "clickability": 7.2,
+      "seo_score": 6.8,
+      "memorability": 7.5,
+      "clarity": 8.1,
+      "overall_score": 7.4,
+      "test_audience": "Original"
+    },
+    {
+      "title": "The Executive's Guide to AI Leadership in 2026: The Future Executive's Guide",
+      "clickability": 8.1,
+      "seo_score": 7.5,
+      "memorability": 7.8,
+      "clarity": 8.4,
+      "overall_score": 7.949999999999999,
+      "test_audience": "Executives"
+    },
+    {
+      "title": "AI Leadership in 2026: The Future Executive's Guide: What Every Leader Needs to Know",
+      "clickability": 8.5,
+      "seo_score": 8.2,
+      "memorability": 8,
+      "clarity": 8.7,
+      "overall_score": 8.35,
+      "test_audience": "General Business"
+    },
+    {
+      "title": "Mastering AI Leadership in 2026: The Future Executive's Guide for Competitive Advantage",
+      "clickability": 7.8,
+      "seo_score": 8,
+      "memorability": 7.3,
+      "clarity": 7.9,
+      "overall_score": 7.75,
+      "test_audience": "Strategy Focus"
+    },
+    {
+      "title": "AI Leadership in 2026: The Future Executive's Guide: From Theory to Practice",
+      "clickability": 7.4,
+      "seo_score": 7.2,
+      "memorability": 7.6,
+      "clarity": 8.3,
+      "overall_score": 7.625000000000001,
+      "test_audience": "Practical Focus"
+    }
+  ],
+  "ab_test_results": [
+    {
+      "title_a": "AI Leadership in 2026: The Future Executive's Guide - Practical Framework",
+      "title_b": "The Executive's Guide to AI Leadership in 2026: The Future Executive's Guide",
+      "click_rate_a": 10.88,
+      "click_rate_b": 11.54,
+      "winner": "The Executive's Guide to AI Leadership in 2026: The Future Executive's Guide",
+      "confidence_level": 86.32
+    },
+    {
+      "title_a": "AI Leadership in 2026: The Future Executive's Guide - Practical Framework",
+      "title_b": "AI Leadership in 2026: The Future Executive's Guide: What Every Leader Needs to Know",
+      "click_rate_a": 10.88,
+      "click_rate_b": 12.02,
+      "winner": "AI Leadership in 2026: The Future Executive's Guide: What Every Leader Needs to Know",
+      "confidence_level": 87.28
+    },
+    {
+      "title_a": "AI Leadership in 2026: The Future Executive's Guide - Practical Framework",
+      "title_b": "Mastering AI Leadership in 2026: The Future Executive's Guide for Competitive Advantage",
+      "click_rate_a": 10.88,
+      "click_rate_b": 11.299999999999999,
+      "winner": "Mastering AI Leadership in 2026: The Future Executive's Guide for Competitive Advantage",
+      "confidence_level": 85.84
+    }
+  ],
+  "optimized_title": "AI Leadership in 2026: The Future Executive's Guide: What Every Leader Needs to Know",
+  "improvement_score": 12.837837837837828,
+  "final_confidence": 86.48,
+  "approved_for_next": true
+}

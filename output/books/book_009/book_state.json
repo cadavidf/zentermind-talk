@@ -1,0 +1,92 @@
+{
+  "book_number": 9,
+  "theme": {
+    "id": 9,
+    "title": "The Infinite Canvas",
+    "memorable_phrase": "Reality became our new interface.",
+    "category": "Augmented Reality \u0026 User Experience",
+    "description": "How spatial computing transforms how we interact with information"
+  },
+  "outline": {
+    "title": "The Infinite Canvas",
+    "subtitle": "** \"Revolutionizing Human-Computer Interaction through Spatial Computing\"",
+    "memorable_phrase": "Reality became our new interface.",
+    "category": "Augmented Reality \u0026 User Experience",
+    "target_audience": "**",
+    "core_thesis": "**",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "**Chapter 1: The Awakening**",
+        "purpose": "",
+        "key_points": [],
+        "examples": [],
+        "word_target": 1800,
+        "takeaways": []
+      },
+      {
+        "number": 2,
+        "title": "**Chapter 2: The Canvas Expands**",
+        "purpose": "",
+        "key_points": [],
+        "examples": [],
+        "word_target": 1800,
+        "takeaways": []
+      },
+      {
+        "number": 3,
+        "title": "**Chapter 3: The Art of Perception**",
+        "purpose": "",
+        "key_points": [],
+        "examples": [],
+        "word_target": 1800,
+        "takeaways": []
+      },
+      {
+        "number": 4,
+        "title": "**Chapter 4: Shadows Within**",
+        "purpose": "",
+        "key_points": [],
+        "examples": [],
+        "word_target": 1800,
+        "takeaways": []
+      },
+      {
+        "number": 5,
+        "title": "**Chapter 5: The Great Architect**",
+        "purpose": "",
+        "key_points": [],
+        "examples": [],
+        "word_target": 1800,
+        "takeaways": []
+      },
+      {
+        "number": 6,
+        "title": "**Chapter 6: Beyond the Canvas**",
+        "purpose": "",
+        "key_points": [],
+        "examples": [],
+        "word_target": 1800,
+        "takeaways": []
+      }
+    ],
+    "key_concepts": null,
+    "supporting_points": null,
+    "call_to_action": "Join The Infinite Canvas today and unleash your creative potential! As reality became our new interface, it's time to redefine what's possible. Unleash your imagination, collaborate with like-minded visionaries, and create a masterpiece that rewrites the rules. Sign up now and become part of this revolutionary art movement!",
+    "word_count": 187,
+    "generated": "2025-07-21T19:01:35-05:00",
+    "theme_source": {
+      "id": 9,
+      "title": "The Infinite Canvas",
+      "memorable_phrase": "Reality became our new interface.",
+      "category": "Augmented Reality \u0026 User Experience",
+      "description": "How spatial computing transforms how we interact with information"
+    }
+  },
+  "current_phase": 7,
+  "phase_results": {},
+  "start_time": "2025-07-21T18:56:16.141689-05:00",
+  "last_update_time": "2025-07-21T19:38:08.58916-05:00",
+  "status": "completed",
+  "output_directory": "output/books/book_009"
+}

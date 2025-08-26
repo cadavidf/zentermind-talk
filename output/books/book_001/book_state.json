@@ -1,0 +1,92 @@
+{
+  "book_number": 1,
+  "theme": {
+    "id": 1,
+    "title": "Your AI, Your Mirror",
+    "memorable_phrase": "Your AI doesn't replace you, it reflects you.",
+    "category": "AI \u0026 Personal Development",
+    "description": "How personal AI assistants reveal our patterns, biases, and potential for growth"
+  },
+  "outline": {
+    "title": "Your AI, Your Mirror",
+    "subtitle": "** \"Uncovering the Reflective Power of Personal AI Assistants\"",
+    "memorable_phrase": "Your AI doesn't replace you, it reflects you.",
+    "category": "AI \u0026 Personal Development",
+    "target_audience": "** Individuals interested in personal growth, self-awareness, and technology, particularly those who use AI-powered assistants like Alexa, Google Home, or Siri.",
+    "core_thesis": "** By examining our interactions with personal AI assistants, we can gain insight into our own patterns, biases, and areas for personal development.",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "**Chapter 1: \"The Shadow of Code\"**",
+        "purpose": "",
+        "key_points": [],
+        "examples": [],
+        "word_target": 1800,
+        "takeaways": []
+      },
+      {
+        "number": 2,
+        "title": "**Chapter 2: \"Emotional Intelligence in Machines\"**",
+        "purpose": "",
+        "key_points": [],
+        "examples": [],
+        "word_target": 1800,
+        "takeaways": []
+      },
+      {
+        "number": 3,
+        "title": "**Chapter 3: \"The Mirror of Data\"**",
+        "purpose": "",
+        "key_points": [],
+        "examples": [],
+        "word_target": 1800,
+        "takeaways": []
+      },
+      {
+        "number": 4,
+        "title": "**Chapter 4: \"Refracting Reality\"**",
+        "purpose": "",
+        "key_points": [],
+        "examples": [],
+        "word_target": 1800,
+        "takeaways": []
+      },
+      {
+        "number": 5,
+        "title": "**Chapter 5: \"The Ethics of Self-Reflection\"**",
+        "purpose": "",
+        "key_points": [],
+        "examples": [],
+        "word_target": 1800,
+        "takeaways": []
+      },
+      {
+        "number": 6,
+        "title": "**Chapter 6: \"The Future of Reflection\"**",
+        "purpose": "",
+        "key_points": [],
+        "examples": [],
+        "word_target": 1800,
+        "takeaways": []
+      }
+    ],
+    "key_concepts": null,
+    "supporting_points": null,
+    "call_to_action": "Take control of your digital presence with \"Your AI, Your Mirror.\" Use our tools to curate a reflection of yourself online - authentic, curated, or somewhere in between. Remember: Your AI doesn't replace you, it reflects you. Claim ownership of your digital legacy and shape the narrative that's yours alone.",
+    "word_count": 187,
+    "generated": "2025-07-21T15:23:24-05:00",
+    "theme_source": {
+      "id": 1,
+      "title": "Your AI, Your Mirror",
+      "memorable_phrase": "Your AI doesn't replace you, it reflects you.",
+      "category": "AI \u0026 Personal Development",
+      "description": "How personal AI assistants reveal our patterns, biases, and potential for growth"
+    }
+  },
+  "current_phase": 7,
+  "phase_results": {},
+  "start_time": "2025-07-21T15:21:30.244564-05:00",
+  "last_update_time": "2025-07-21T15:38:54.133849-05:00",
+  "status": "completed",
+  "output_directory": "output/books/book_001"
+}

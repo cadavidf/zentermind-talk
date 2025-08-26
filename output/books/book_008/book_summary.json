@@ -1,0 +1,26 @@
+{
+  "book_number": 8,
+  "category": "Data Privacy \u0026 Digital Rights",
+  "generated_at": "2025-07-21T18:56:13-05:00",
+  "memorable_phrase": "Your data is your dignity.",
+  "outline_words": 467,
+  "output_files": [
+    "book_state.json",
+    "book_summary.json",
+    "complete_book.json",
+    "complete_book.md",
+    "outline_1000_words.json",
+    "outline_1000_words.md",
+    "phase1_progress.json",
+    "phase2_progress.json",
+    "phase3_progress.json",
+    "phase4_progress.json",
+    "phase5_progress.json",
+    "phase6_progress.json",
+    "phase7_progress.json"
+  ],
+  "phases_completed": 7,
+  "status": "completed",
+  "title": "Own Your Data, Own Your Life",
+  "total_duration": "51m53.838092515s"
+}

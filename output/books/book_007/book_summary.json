@@ -1,0 +1,26 @@
+{
+  "book_number": 7,
+  "category": "Circular Economy \u0026 Innovation",
+  "generated_at": "2025-07-21T18:04:16-05:00",
+  "memorable_phrase": "Nothing is wasted in a living system.",
+  "outline_words": 420,
+  "output_files": [
+    "book_state.json",
+    "book_summary.json",
+    "complete_book.json",
+    "complete_book.md",
+    "outline_1000_words.json",
+    "outline_1000_words.md",
+    "phase1_progress.json",
+    "phase2_progress.json",
+    "phase3_progress.json",
+    "phase4_progress.json",
+    "phase5_progress.json",
+    "phase6_progress.json",
+    "phase7_progress.json"
+  ],
+  "phases_completed": 7,
+  "status": "completed",
+  "title": "Waste to Wealth",
+  "total_duration": "41m8.913376714s"
+}

@@ -1,0 +1,65 @@
+[16:21:02] IMPORTANT: 🆕 Starting new session...
+[16:21:02] PROGRESS: Loading Themes (10.0%) - Reading book theme configuration
+[16:21:02] SUCCESS: Theme Selection - Selected 10 diverse themes
+[16:21:02] INFO: Configuration - Session ID: session_1752441662
+[16:21:02] INFO: Configuration - Total books: 10
+[16:21:02] INFO: Configuration - AI Model: llama3.2
+[16:21:02] INFO: Configuration - Output directory: output/books
+[16:21:02] INFO: Configuration - Chunk size: 3 books
+[16:21:02] INFO: Configuration - Auto-save interval: 30s
+[16:21:02] INFO: Configuration - Phases per book: 7
+[16:21:02] INFO: Book Queue - Selected themes:
+[16:21:02] INFO: Book Queue -   1. Your AI, Your Mirror (AI & Personal Development)
+[16:21:02] INFO: Book Queue -      "Your AI doesn't replace you, it reflects you."
+[16:21:02] INFO: Book Queue -   2. The Quiet Machine (Technology & Human Experience)
+[16:21:02] INFO: Book Queue -      "Tech that whispers instead of shouts changes everything."
+[16:21:02] INFO: Book Queue -   3. Conscious Code (AI Ethics & Philosophy)
+[16:21:02] INFO: Book Queue -      "We programmed machines, then learned to program values."
+[16:21:02] INFO: Book Queue -   4. Live Long, Live Well (Longevity & Health)
+[16:21:02] INFO: Book Queue -      "Lifespan is nothing without healthspan."
+[16:21:02] INFO: Book Queue -   5. Preventive Everything (Preventive Medicine & AI)
+[16:21:02] INFO: Book Queue -      "The future of health is prevention, not correction."
+[16:21:02] INFO: Book Queue -   6. The Regenerative Revolution (Sustainable Business & Environment)
+[16:21:02] INFO: Book Queue -      "Regeneration became the cost of entry."
+[16:21:02] INFO: Book Queue -   7. Waste to Wealth (Circular Economy & Innovation)
+[16:21:02] INFO: Book Queue -      "Nothing is wasted in a living system."
+[16:21:02] INFO: Book Queue -   8. Own Your Data, Own Your Life (Data Privacy & Digital Rights)
+[16:21:02] INFO: Book Queue -      "Your data is your dignity."
+[16:21:02] INFO: Book Queue -   9. The Infinite Canvas (Augmented Reality & User Experience)
+[16:21:02] INFO: Book Queue -      "Reality became our new interface."
+[16:21:02] INFO: Book Queue -   10. Focus as Superpower (Attention Economy & Mental Training)
+[16:21:02] INFO: Book Queue -      "Attention is your scarcest resource."
+[16:21:02] IMPORTANT: 🚀 Starting Enhanced Sequential Book Generation...
+[16:21:02] IMPORTANT:    Type 'pause' to pause, 'stop' to stop gracefully, 'status' for current status
+[16:21:02] IMPORTANT:    Send SIGUSR1 to pause, SIGUSR2 to resume, SIGINT for graceful stop
+[16:21:02] PROGRESS: Chunk Processing (0.0%) - Starting chunk 1/4 (3 books)
+[16:21:02] PROGRESS: Book Generation (0.0%) - Book 1/10: Your AI, Your Mirror
+[16:21:02] PROGRESS: Outline Generation (5.0%) - Generating 1000-word outline for book 1
+[16:27:32] SUCCESS: Outline Generation - Generated 264-word outline
+[16:27:32] PROGRESS: Phase Processing (0.0%) - Book 1 - Phase 1: Market Intelligence & USP Optimization
+[16:27:32] PROGRESS: Phase Execution (0.0%) - Executing Phase 1 Beta
+[16:27:33] SUCCESS: Phase Execution - Completed in 45.140713ms
+[16:27:33] ERROR: File Copy - Could not copy output file: open output/books/book_001/phase1_usp_optimization.json: no such file or directory
+[16:27:33] SUCCESS: Phase Processing - Phase 1 completed
+[16:27:34] PROGRESS: Phase Processing (1.4%) - Book 1 - Phase 2: Concept Generation & Validation
+[16:27:34] PROGRESS: Phase Execution (0.0%) - Executing Phase 2
+[16:27:34] SUCCESS: Phase Execution - Completed in 22.173413ms
+[16:27:34] ERROR: File Copy - Could not copy output file: open output/books/book_001/phase2_concepts.json: no such file or directory
+[16:27:34] SUCCESS: Phase Processing - Phase 2 completed
+[16:27:35] PROGRESS: Phase Processing (2.9%) - Book 1 - Phase 3: Reader Feedback & Shareability
+[16:27:35] PROGRESS: Phase Execution (0.0%) - Executing Phase 3
+[16:27:35] SUCCESS: Phase Execution - Completed in 18.324509ms
+[16:27:35] ERROR: File Copy - Could not copy output file: open output/books/book_001/phase3_feedback.json: no such file or directory
+[16:27:35] SUCCESS: Phase Processing - Phase 3 completed
+[16:27:36] PROGRESS: Phase Processing (4.3%) - Book 1 - Phase 4: Media Coverage & PR Analysis
+[16:27:36] PROGRESS: Phase Execution (0.0%) - Executing Phase 4
+[16:27:36] SUCCESS: Phase Execution - Completed in 17.714506ms
+[16:27:36] ERROR: File Copy - Could not copy output file: open output/books/book_001/phase4_media.json: no such file or directory
+[16:27:36] SUCCESS: Phase Processing - Phase 4 completed
+[16:27:37] PROGRESS: Phase Processing (5.7%) - Book 1 - Phase 5: Title Optimization & A/B Testing
+[16:27:37] PROGRESS: Phase Execution (0.0%) - Executing Phase 5
+[16:27:37] SUCCESS: Phase Execution - Completed in 24.901856ms
+[16:27:37] ERROR: File Copy - Could not copy output file: open output/books/book_001/phase5_titles.json: no such file or directory
+[16:27:37] SUCCESS: Phase Processing - Phase 5 completed
+[16:27:38] PROGRESS: Phase Processing (7.1%) - Book 1 - Phase 6: Complete Content Generation
+[16:27:38] PROGRESS: Phase Execution (0.0%) - Executing Phase 6 Beta

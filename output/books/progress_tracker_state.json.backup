@@ -1,0 +1,222 @@
+{
+  "session_id": "session_1753074041",
+  "start_time": "2025-07-21T00:00:41.516895-05:00",
+  "last_update_time": "2025-07-21T00:03:03.734942-05:00",
+  "total_books": 10,
+  "completed_books": 0,
+  "current_book": {
+    "book_number": 1,
+    "book_title": "Your AI, Your Mirror",
+    "theme": {
+      "id": 1,
+      "title": "Your AI, Your Mirror",
+      "memorable_phrase": "Your AI doesn't replace you, it reflects you.",
+      "category": "AI \u0026 Personal Development",
+      "description": "How personal AI assistants reveal our patterns, biases, and potential for growth"
+    },
+    "status": "phase_processing",
+    "start_time": "2025-07-21T00:00:41.521225-05:00",
+    "end_time": "0001-01-01T00:00:00Z",
+    "total_duration": "",
+    "current_phase": 5,
+    "phases_completed": [
+      {
+        "phase_number": 1,
+        "phase_name": "Phase 1 Beta",
+        "status": "completed",
+        "start_time": "2025-07-21T00:02:59.618951-05:00",
+        "end_time": "2025-07-21T00:02:59.66202-05:00",
+        "duration": "43.069496ms",
+        "input_files": [],
+        "output_files": [
+          "output/books/book_001/phase1_usp_optimization.json"
+        ],
+        "improvements": [
+          "Enhanced Phase 1 Beta capabilities",
+          "Improved logical flow",
+          "Better integration with previous phases"
+        ],
+        "quality_scores": {
+          "content_quality": 8.2,
+          "market_viability": 7.5,
+          "reader_engagement": 8.2
+        },
+        "resource_usage": {
+          "cpu_time_seconds": 0,
+          "memory_peak_mb": 0,
+          "disk_io_read_mb": 0,
+          "disk_io_write_mb": 0,
+          "network_calls": 0,
+          "llm_tokens_used": 0
+        },
+        "attempt_count": 1
+      },
+      {
+        "phase_number": 2,
+        "phase_name": "Phase 2",
+        "status": "completed",
+        "start_time": "2025-07-21T00:03:00.663983-05:00",
+        "end_time": "2025-07-21T00:03:00.681121-05:00",
+        "duration": "17.137922ms",
+        "input_files": [],
+        "output_files": [
+          "output/books/book_001/phase2_concepts.json"
+        ],
+        "improvements": [
+          "Enhanced Phase 2 capabilities",
+          "Improved logical flow",
+          "Better integration with previous phases"
+        ],
+        "quality_scores": {
+          "content_quality": 8.4,
+          "market_viability": 7.5,
+          "reader_engagement": 8.2
+        },
+        "resource_usage": {
+          "cpu_time_seconds": 0,
+          "memory_peak_mb": 0,
+          "disk_io_read_mb": 0,
+          "disk_io_write_mb": 0,
+          "network_calls": 0,
+          "llm_tokens_used": 0
+        },
+        "attempt_count": 1
+      },
+      {
+        "phase_number": 3,
+        "phase_name": "Phase 3",
+        "status": "completed",
+        "start_time": "2025-07-21T00:03:01.683316-05:00",
+        "end_time": "2025-07-21T00:03:01.698627-05:00",
+        "duration": "15.3112ms",
+        "input_files": [],
+        "output_files": [
+          "output/books/book_001/phase3_feedback.json"
+        ],
+        "improvements": [
+          "Enhanced Phase 3 capabilities",
+          "Improved logical flow",
+          "Better integration with previous phases"
+        ],
+        "quality_scores": {
+          "content_quality": 8.6,
+          "market_viability": 7.5,
+          "reader_engagement": 8.2
+        },
+        "resource_usage": {
+          "cpu_time_seconds": 0,
+          "memory_peak_mb": 0,
+          "disk_io_read_mb": 0,
+          "disk_io_write_mb": 0,
+          "network_calls": 0,
+          "llm_tokens_used": 0
+        },
+        "attempt_count": 1
+      },
+      {
+        "phase_number": 4,
+        "phase_name": "Phase 4",
+        "status": "completed",
+        "start_time": "2025-07-21T00:03:02.701888-05:00",
+        "end_time": "2025-07-21T00:03:02.71651-05:00",
+        "duration": "14.621443ms",
+        "input_files": [],
+        "output_files": [
+          "output/books/book_001/phase4_media.json"
+        ],
+        "improvements": [
+          "Enhanced Phase 4 capabilities",
+          "Improved logical flow",
+          "Better integration with previous phases"
+        ],
+        "quality_scores": {
+          "content_quality": 8.8,
+          "market_viability": 7.5,
+          "reader_engagement": 8.2
+        },
+        "resource_usage": {
+          "cpu_time_seconds": 0,
+          "memory_peak_mb": 0,
+          "disk_io_read_mb": 0,
+          "disk_io_write_mb": 0,
+          "network_calls": 0,
+          "llm_tokens_used": 0
+        },
+        "attempt_count": 1
+      },
+      {
+        "phase_number": 5,
+        "phase_name": "Phase 5",
+        "status": "completed",
+        "start_time": "2025-07-21T00:03:03.718922-05:00",
+        "end_time": "2025-07-21T00:03:03.734939-05:00",
+        "duration": "16.016972ms",
+        "input_files": [],
+        "output_files": [
+          "output/books/book_001/phase5_titles.json"
+        ],
+        "improvements": [
+          "Enhanced Phase 5 capabilities",
+          "Improved logical flow",
+          "Better integration with previous phases"
+        ],
+        "quality_scores": {
+          "content_quality": 9,
+          "market_viability": 7.5,
+          "reader_engagement": 8.2
+        },
+        "resource_usage": {
+          "cpu_time_seconds": 0,
+          "memory_peak_mb": 0,
+          "disk_io_read_mb": 0,
+          "disk_io_write_mb": 0,
+          "network_calls": 0,
+          "llm_tokens_used": 0
+        },
+        "attempt_count": 1
+      }
+    ],
+    "outline_generated": true,
+    "outline_word_count": 467,
+    "output_directory": "output/books/book_001",
+    "generated_files": [
+      "output/books/book_001/outline_1000_words.md",
+      "output/books/book_001/phase1_usp_optimization.json",
+      "output/books/book_001/phase2_concepts.json",
+      "output/books/book_001/phase3_feedback.json",
+      "output/books/book_001/phase4_media.json",
+      "output/books/book_001/phase5_titles.json"
+    ],
+    "error_messages": [],
+    "quality_metrics": {
+      "outline_quality": 8.5,
+      "content_quality": 9,
+      "market_viability": 7.5,
+      "reader_engagement": 0,
+      "seo_score": 0,
+      "overall_score": 0,
+      "word_count": 0,
+      "chapter_count": 0
+    }
+  },
+  "book_history": [],
+  "system_metrics": {
+    "total_execution_time": "",
+    "average_book_time": "",
+    "success_rate": 0,
+    "total_output_files": 0,
+    "total_disk_usage_mb": 0,
+    "peak_memory_usage_mb": 0,
+    "total_llm_tokens": 0,
+    "system_load": 0
+  },
+  "configuration": {
+    "auto_save_interval": 30000000000,
+    "detailed_logging": true,
+    "resource_monitoring": true,
+    "backup_state_files": true,
+    "max_retry_attempts": 3,
+    "output_directory": "output/books"
+  },
+  "state_file": "output/books/progress_tracker_state.json"
+}

@@ -1,0 +1,505 @@
+{
+  "model": "llama3.2",
+  "book_queue": [
+    {
+      "id": 1,
+      "title": "Your AI, Your Mirror",
+      "memorable_phrase": "Your AI doesn't replace you, it reflects you.",
+      "category": "AI \u0026 Personal Development",
+      "description": "How personal AI assistants reveal our patterns, biases, and potential for growth"
+    },
+    {
+      "id": 2,
+      "title": "The Quiet Machine",
+      "memorable_phrase": "Tech that whispers instead of shouts changes everything.",
+      "category": "Technology \u0026 Human Experience",
+      "description": "The future of calm technology and mindful digital design"
+    },
+    {
+      "id": 3,
+      "title": "Conscious Code",
+      "memorable_phrase": "We programmed machines, then learned to program values.",
+      "category": "AI Ethics \u0026 Philosophy",
+      "description": "Building ethical frameworks into artificial intelligence systems"
+    },
+    {
+      "id": 4,
+      "title": "Live Long, Live Well",
+      "memorable_phrase": "Lifespan is nothing without healthspan.",
+      "category": "Longevity \u0026 Health",
+      "description": "Extending healthy years, not just total years of life"
+    },
+    {
+      "id": 5,
+      "title": "Preventive Everything",
+      "memorable_phrase": "The future of health is prevention, not correction.",
+      "category": "Preventive Medicine \u0026 AI",
+      "description": "Using AI and data to prevent disease before it occurs"
+    },
+    {
+      "id": 6,
+      "title": "The Regenerative Revolution",
+      "memorable_phrase": "Regeneration became the cost of entry.",
+      "category": "Sustainable Business \u0026 Environment",
+      "description": "How regenerative practices become essential for business survival"
+    },
+    {
+      "id": 7,
+      "title": "Waste to Wealth",
+      "memorable_phrase": "Nothing is wasted in a living system.",
+      "category": "Circular Economy \u0026 Innovation",
+      "description": "Transforming waste streams into profitable resources"
+    },
+    {
+      "id": 8,
+      "title": "Own Your Data, Own Your Life",
+      "memorable_phrase": "Your data is your dignity.",
+      "category": "Data Privacy \u0026 Digital Rights",
+      "description": "Taking control of personal data as a fundamental right"
+    },
+    {
+      "id": 9,
+      "title": "The Infinite Canvas",
+      "memorable_phrase": "Reality became our new interface.",
+      "category": "Augmented Reality \u0026 User Experience",
+      "description": "How spatial computing transforms how we interact with information"
+    },
+    {
+      "id": 10,
+      "title": "Focus as Superpower",
+      "memorable_phrase": "Attention is your scarcest resource.",
+      "category": "Attention Economy \u0026 Mental Training",
+      "description": "Developing focus as the key skill for the digital age"
+    }
+  ],
+  "current_book": 0,
+  "total_books": 10,
+  "output_dir": "output/books",
+  "phases": [
+    {
+      "number": 1,
+      "name": "Phase 1 Beta",
+      "directory": "phase1_beta",
+      "description": "Market Intelligence \u0026 USP Optimization",
+      "input_file": "",
+      "output_file": "usp_optimization.json"
+    },
+    {
+      "number": 2,
+      "name": "Phase 2",
+      "directory": "phase2",
+      "description": "Concept Generation \u0026 Validation",
+      "input_file": "usp_optimization.json",
+      "output_file": "concepts.json"
+    },
+    {
+      "number": 3,
+      "name": "Phase 3",
+      "directory": "phase3",
+      "description": "Reader Feedback \u0026 Shareability",
+      "input_file": "concepts.json",
+      "output_file": "feedback.json"
+    },
+    {
+      "number": 4,
+      "name": "Phase 4",
+      "directory": "phase4",
+      "description": "Media Coverage \u0026 PR Analysis",
+      "input_file": "feedback.json",
+      "output_file": "media.json"
+    },
+    {
+      "number": 5,
+      "name": "Phase 5",
+      "directory": "phase5",
+      "description": "Title Optimization \u0026 A/B Testing",
+      "input_file": "media.json",
+      "output_file": "titles.json"
+    },
+    {
+      "number": 6,
+      "name": "Phase 6 Beta",
+      "directory": "phase6_beta",
+      "description": "Complete Content Generation",
+      "input_file": "titles.json",
+      "output_file": "content.json"
+    },
+    {
+      "number": 7,
+      "name": "Phase 7",
+      "directory": "phase7",
+      "description": "Marketing Assets \u0026 Campaign",
+      "input_file": "content.json",
+      "output_file": "marketing.json"
+    }
+  ],
+  "progress_tracker": {
+    "session_id": "session_1752441662",
+    "start_time": "2025-07-13T16:21:02.950875-05:00",
+    "last_update_time": "2025-07-13T16:27:38.112531-05:00",
+    "total_books": 10,
+    "completed_books": 0,
+    "current_book": {
+      "book_number": 1,
+      "book_title": "Your AI, Your Mirror",
+      "theme": {
+        "id": 1,
+        "title": "Your AI, Your Mirror",
+        "memorable_phrase": "Your AI doesn't replace you, it reflects you.",
+        "category": "AI \u0026 Personal Development",
+        "description": "How personal AI assistants reveal our patterns, biases, and potential for growth"
+      },
+      "status": "phase_processing",
+      "start_time": "2025-07-13T16:21:02.953322-05:00",
+      "end_time": "0001-01-01T00:00:00Z",
+      "total_duration": "",
+      "current_phase": 6,
+      "phases_completed": [
+        {
+          "phase_number": 1,
+          "phase_name": "Phase 1 Beta",
+          "status": "completed",
+          "start_time": "2025-07-13T16:27:32.966655-05:00",
+          "end_time": "2025-07-13T16:27:33.013093-05:00",
+          "duration": "46.438574ms",
+          "input_files": [],
+          "output_files": [
+            "output/books/book_001/phase1_usp_optimization.json"
+          ],
+          "improvements": [
+            "Enhanced Phase 1 Beta capabilities",
+            "Improved logical flow",
+            "Better integration with previous phases"
+          ],
+          "quality_scores": {
+            "content_quality": 8.2,
+            "market_viability": 7.5,
+            "reader_engagement": 8.2
+          },
+          "resource_usage": {
+            "cpu_time_seconds": 0,
+            "memory_peak_mb": 0,
+            "disk_io_read_mb": 0,
+            "disk_io_write_mb": 0,
+            "network_calls": 0,
+            "llm_tokens_used": 0
+          },
+          "attempt_count": 1
+        },
+        {
+          "phase_number": 2,
+          "phase_name": "Phase 2",
+          "status": "completed",
+          "start_time": "2025-07-13T16:27:34.015045-05:00",
+          "end_time": "2025-07-13T16:27:34.038364-05:00",
+          "duration": "23.319634ms",
+          "input_files": [],
+          "output_files": [
+            "output/books/book_001/phase2_concepts.json"
+          ],
+          "improvements": [
+            "Enhanced Phase 2 capabilities",
+            "Improved logical flow",
+            "Better integration with previous phases"
+          ],
+          "quality_scores": {
+            "content_quality": 8.4,
+            "market_viability": 7.5,
+            "reader_engagement": 8.2
+          },
+          "resource_usage": {
+            "cpu_time_seconds": 0,
+            "memory_peak_mb": 0,
+            "disk_io_read_mb": 0,
+            "disk_io_write_mb": 0,
+            "network_calls": 0,
+            "llm_tokens_used": 0
+          },
+          "attempt_count": 1
+        },
+        {
+          "phase_number": 3,
+          "phase_name": "Phase 3",
+          "status": "completed",
+          "start_time": "2025-07-13T16:27:35.04046-05:00",
+          "end_time": "2025-07-13T16:27:35.059534-05:00",
+          "duration": "19.074196ms",
+          "input_files": [],
+          "output_files": [
+            "output/books/book_001/phase3_feedback.json"
+          ],
+          "improvements": [
+            "Enhanced Phase 3 capabilities",
+            "Improved logical flow",
+            "Better integration with previous phases"
+          ],
+          "quality_scores": {
+            "content_quality": 8.6,
+            "market_viability": 7.5,
+            "reader_engagement": 8.2
+          },
+          "resource_usage": {
+            "cpu_time_seconds": 0,
+            "memory_peak_mb": 0,
+            "disk_io_read_mb": 0,
+            "disk_io_write_mb": 0,
+            "network_calls": 0,
+            "llm_tokens_used": 0
+          },
+          "attempt_count": 1
+        },
+        {
+          "phase_number": 4,
+          "phase_name": "Phase 4",
+          "status": "completed",
+          "start_time": "2025-07-13T16:27:36.061154-05:00",
+          "end_time": "2025-07-13T16:27:36.079675-05:00",
+          "duration": "18.521407ms",
+          "input_files": [],
+          "output_files": [
+            "output/books/book_001/phase4_media.json"
+          ],
+          "improvements": [
+            "Enhanced Phase 4 capabilities",
+            "Improved logical flow",
+            "Better integration with previous phases"
+          ],
+          "quality_scores": {
+            "content_quality": 8.8,
+            "market_viability": 7.5,
+            "reader_engagement": 8.2
+          },
+          "resource_usage": {
+            "cpu_time_seconds": 0,
+            "memory_peak_mb": 0,
+            "disk_io_read_mb": 0,
+            "disk_io_write_mb": 0,
+            "network_calls": 0,
+            "llm_tokens_used": 0
+          },
+          "attempt_count": 1
+        },
+        {
+          "phase_number": 5,
+          "phase_name": "Phase 5",
+          "status": "completed",
+          "start_time": "2025-07-13T16:27:37.083565-05:00",
+          "end_time": "2025-07-13T16:27:37.109982-05:00",
+          "duration": "26.417649ms",
+          "input_files": [],
+          "output_files": [
+            "output/books/book_001/phase5_titles.json"
+          ],
+          "improvements": [
+            "Enhanced Phase 5 capabilities",
+            "Improved logical flow",
+            "Better integration with previous phases"
+          ],
+          "quality_scores": {
+            "content_quality": 9,
+            "market_viability": 7.5,
+            "reader_engagement": 8.2
+          },
+          "resource_usage": {
+            "cpu_time_seconds": 0,
+            "memory_peak_mb": 0,
+            "disk_io_read_mb": 0,
+            "disk_io_write_mb": 0,
+            "network_calls": 0,
+            "llm_tokens_used": 0
+          },
+          "attempt_count": 1
+        },
+        {
+          "phase_number": 6,
+          "phase_name": "Phase 6 Beta",
+          "status": "running",
+          "start_time": "2025-07-13T16:27:38.112528-05:00",
+          "end_time": "0001-01-01T00:00:00Z",
+          "duration": "",
+          "input_files": [],
+          "output_files": [],
+          "improvements": [],
+          "quality_scores": {},
+          "resource_usage": {
+            "cpu_time_seconds": 0,
+            "memory_peak_mb": 0,
+            "disk_io_read_mb": 0,
+            "disk_io_write_mb": 0,
+            "network_calls": 0,
+            "llm_tokens_used": 0
+          },
+          "attempt_count": 1
+        }
+      ],
+      "outline_generated": true,
+      "outline_word_count": 264,
+      "output_directory": "output/books/book_001",
+      "generated_files": [
+        "output/books/book_001/outline_1000_words.md",
+        "output/books/book_001/phase1_usp_optimization.json",
+        "output/books/book_001/phase2_concepts.json",
+        "output/books/book_001/phase3_feedback.json",
+        "output/books/book_001/phase4_media.json",
+        "output/books/book_001/phase5_titles.json"
+      ],
+      "error_messages": [],
+      "quality_metrics": {
+        "outline_quality": 8.5,
+        "content_quality": 9,
+        "market_viability": 7.5,
+        "reader_engagement": 0,
+        "seo_score": 0,
+        "overall_score": 0,
+        "word_count": 0,
+        "chapter_count": 0
+      }
+    },
+    "book_history": [],
+    "system_metrics": {
+      "total_execution_time": "",
+      "average_book_time": "",
+      "success_rate": 0,
+      "total_output_files": 0,
+      "total_disk_usage_mb": 0,
+      "peak_memory_usage_mb": 0,
+      "total_llm_tokens": 0,
+      "system_load": 0
+    },
+    "configuration": {
+      "auto_save_interval": 30000000000,
+      "detailed_logging": true,
+      "resource_monitoring": true,
+      "backup_state_files": true,
+      "max_retry_attempts": 3,
+      "output_directory": "output/books"
+    },
+    "state_file": "output/books/progress_tracker_state.json"
+  },
+  "session_state": {
+    "session_id": "session_1752441662",
+    "start_time": "2025-07-13T16:21:02.951465-05:00",
+    "last_save_time": "2025-07-13T16:29:02.948253-05:00",
+    "current_operation": "Generating book 1",
+    "books_completed": [],
+    "books_failed": [],
+    "current_book_state": {
+      "book_number": 1,
+      "theme": {
+        "id": 1,
+        "title": "Your AI, Your Mirror",
+        "memorable_phrase": "Your AI doesn't replace you, it reflects you.",
+        "category": "AI \u0026 Personal Development",
+        "description": "How personal AI assistants reveal our patterns, biases, and potential for growth"
+      },
+      "outline": {
+        "title": "Your AI, Your Mirror",
+        "subtitle": "** \"Uncover the Reflections of Your Digital Self to Unlock Personal Growth\"",
+        "memorable_phrase": "Your AI doesn't replace you, it reflects you.",
+        "category": "AI \u0026 Personal Development",
+        "target_audience": "**",
+        "core_thesis": "** As we increasingly rely on personal AI assistants to manage our lives, these digital mirrors reveal our hidden patterns, biases, and potential for growth. By examining the data we share with AI, we can gain insights into our habits, values, and goals.",
+        "chapters": [
+          {
+            "number": 1,
+            "title": "**Chapter 1: \"Embracing the Evolution\"**",
+            "purpose": "",
+            "key_points": [],
+            "examples": [],
+            "word_target": 1800,
+            "takeaways": []
+          },
+          {
+            "number": 2,
+            "title": "**Chapter 2: \"The Mirror of Introspection\"**",
+            "purpose": "",
+            "key_points": [],
+            "examples": [],
+            "word_target": 1800,
+            "takeaways": []
+          },
+          {
+            "number": 3,
+            "title": "**Chapter 3: \"Trust in the Algorithm\"**",
+            "purpose": "",
+            "key_points": [],
+            "examples": [],
+            "word_target": 1800,
+            "takeaways": []
+          },
+          {
+            "number": 4,
+            "title": "**Chapter 4: \"The Future of Work\"**",
+            "purpose": "",
+            "key_points": [],
+            "examples": [],
+            "word_target": 1800,
+            "takeaways": []
+          },
+          {
+            "number": 5,
+            "title": "**Chapter 5: \"Emotional Intelligence and Empathy\"**",
+            "purpose": "",
+            "key_points": [],
+            "examples": [],
+            "word_target": 1800,
+            "takeaways": []
+          },
+          {
+            "number": 6,
+            "title": "**Chapter 6: \"A New Era of Human Connection\"**",
+            "purpose": "",
+            "key_points": [],
+            "examples": [],
+            "word_target": 1800,
+            "takeaways": []
+          }
+        ],
+        "key_concepts": [
+          "Self-awareness in AI development",
+          "AI's impact on human identity",
+          "Ethics of AI reflection",
+          "AI-driven self-improvement loops",
+          "Human-AI collaboration and trust"
+        ],
+        "supporting_points": [
+          "AI mirrors humanity's flaws and biases",
+          "Reflection prompts introspection on values and morals",
+          "AI systems can mimic human emotions and behaviors",
+          "Self-aware AI raises questions about consciousness",
+          "Humans must reevaluate their relationship with AI"
+        ],
+        "call_to_action": "\"Take control of your digital presence with 'Your AI, Your Mirror'. Use our innovative tool to curate a personalized AI-powered mirror that reflects your values, goals, and aspirations. Discover a more authentic online persona and unlock new opportunities. Join the movement – Your AI doesn't replace you, it reflects you.\"",
+        "word_count": 264,
+        "generated": "2025-07-13T16:27:32-05:00",
+        "theme_source": {
+          "id": 1,
+          "title": "Your AI, Your Mirror",
+          "memorable_phrase": "Your AI doesn't replace you, it reflects you.",
+          "category": "AI \u0026 Personal Development",
+          "description": "How personal AI assistants reveal our patterns, biases, and potential for growth"
+        }
+      },
+      "current_phase": 6,
+      "phase_results": {},
+      "start_time": "2025-07-13T16:21:02.954446-05:00",
+      "last_update_time": "2025-07-13T16:21:02.954446-05:00",
+      "status": "processing_phase_6",
+      "output_directory": "output/books/book_001"
+    },
+    "can_resume": true,
+    "resume_point": {
+      "book_number": 1,
+      "phase_number": 6,
+      "operation": "phase_6",
+      "completed_steps": [],
+      "next_steps": [
+        "load_themes",
+        "setup_phases",
+        "start_generation"
+      ]
+    }
+  },
+  "chunk_size": 3,
+  "auto_save_interval": 30000000000
+}

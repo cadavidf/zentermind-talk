@@ -1,0 +1,63 @@
+{
+  "timestamp": "2025-07-21T19:44:17-05:00",
+  "selected_title": "AI Leadership in 2026: The Future Executive's Guide",
+  "generated_concepts": [
+    {
+      "title": "AI Leadership in 2026: The Future Executive's Guide - Practical Framework",
+      "description": "A hands-on guide to implementing AI leadership strategies",
+      "uniqueness_score": 8.2,
+      "viability_score": true,
+      "commercial_score": 7.8,
+      "status": "approved",
+      "content_type": "book"
+    },
+    {
+      "title": "AI Leadership in 2026: The Future Executive's Guide - Case Studies Edition",
+      "description": "Real-world examples of AI leadership success stories",
+      "uniqueness_score": 7.5,
+      "viability_score": true,
+      "commercial_score": 8.1,
+      "status": "approved",
+      "content_type": "book"
+    },
+    {
+      "title": "AI Leadership in 2026: The Future Executive's Guide - Technical Deep Dive",
+      "description": "Advanced technical concepts for AI-driven organizations",
+      "uniqueness_score": 9.1,
+      "viability_score": false,
+      "commercial_score": 6.2,
+      "status": "rejected",
+      "content_type": "book"
+    }
+  ],
+  "valid_concepts": [
+    {
+      "title": "AI Leadership in 2026: The Future Executive's Guide - Practical Framework",
+      "description": "A hands-on guide to implementing AI leadership strategies",
+      "uniqueness_score": 8.2,
+      "viability_score": true,
+      "commercial_score": 7.8,
+      "status": "approved",
+      "content_type": "book"
+    },
+    {
+      "title": "AI Leadership in 2026: The Future Executive's Guide - Case Studies Edition",
+      "description": "Real-world examples of AI leadership success stories",
+      "uniqueness_score": 7.5,
+      "viability_score": true,
+      "commercial_score": 8.1,
+      "status": "approved",
+      "content_type": "book"
+    }
+  ],
+  "best_concept": {
+    "title": "AI Leadership in 2026: The Future Executive's Guide - Practical Framework",
+    "description": "A hands-on guide to implementing AI leadership strategies",
+    "uniqueness_score": 8.2,
+    "viability_score": true,
+    "commercial_score": 7.8,
+    "status": "approved",
+    "content_type": "book"
+  },
+  "total_processed": 3
+}

@@ -1,0 +1,71 @@
+
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║  ███████╗███╗   ██╗██╗  ██╗ █████╗ ███╗   ██╗ ██████╗███████╗██████╗          ║
+║  ██╔════╝████╗  ██║██║  ██║██╔══██╗████╗  ██║██╔════╝██╔════╝██╔══██╗         ║
+║  █████╗  ██╔██╗ ██║███████║███████║██╔██╗ ██║██║     █████╗  ██║  ██║         ║
+║  ██╔══╝  ██║╚██╗██║██╔══██║██╔══██║██║╚██╗██║██║     ██╔══╝  ██║  ██║         ║
+║  ███████╗██║ ╚████║██║  ██║██║  ██║██║ ╚████║╚██████╗███████╗██████╔╝         ║
+║  ╚══════╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝╚══════╝╚═════╝          ║
+║                                                                               ║
+║        📚 ENHANCED SEQUENTIAL BOOK GENERATION SYSTEM 📚                       ║
+║                                                                               ║
+║    ✨ Features: Resume • Pause • Real-time Logging • Chunked Processing ✨    ║
+║                                                                               ║
+║                        Co-authored by animality.ai                           ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+
+[36m[03:42:56][0m [1m[35m🎯 SINGLE BOOK EXPANSION MODE - Book 6 [0m[0m[0m
+[36m[03:42:56][0m [32m✅ SUCCESS:[0m [1mSetup[0m - [37mStarting expansion for: The Regenerative Revolution[0m
+[36m[03:42:56][0m [1m🔄 Book Generation[0m[33m [░░░░░░░░░░░░░░░░░░░░](0.0%) [0m[37mStarting 7-phase generation for book 6
+%!(EXTRA string=[0m)[36m[03:42:56][0m [1m🔄 Phase Processing[0m[33m [░░░░░░░░░░░░░░░░░░░░](0.0%) [0m[37mBook 6 - Phase 1: Market Intelligence & USP Optimization
+%!(EXTRA string=[0m)[36m[03:42:56][0m [1m🔄 Phase Execution[0m[33m [░░░░░░░░░░░░░░░░░░░░](0.0%) [0m[37mExecuting Phase 1 Beta
+%!(EXTRA string=[0m)[36m[03:42:56][0m [32m✅ SUCCESS:[0m [1mPhase Execution[0m - [37mCompleted in 18.14757ms[0m
+[36m[03:42:56][0m [31m❌ ERROR:[0m [1mFile Copy[0m - [37mCould not copy from usp_optimization.json: open output/books/book_006/phase1_usp_optimization.json: no such file or directory[0m
+[36m[03:42:56][0m [32m✅ SUCCESS:[0m [1mPhase Processing[0m - [37mPhase 1 completed[0m
+[36m[03:42:56][0m [34mℹ️  INFO:[0m [1mProgress Save[0m - [37mPhase 1 progress saved[0m
+[36m[03:42:56][0m [1m🔄 Phase Processing[0m[33m [██░░░░░░░░░░░░░░░░░░](14.3%) [0m[37mBook 6 - Phase 2: Concept Generation & Validation
+%!(EXTRA string=[0m)[36m[03:42:56][0m [1m🔄 Phase Execution[0m[33m [░░░░░░░░░░░░░░░░░░░░](0.0%) [0m[37mExecuting Phase 2
+%!(EXTRA string=[0m)[36m[03:42:56][0m [32m✅ SUCCESS:[0m [1mPhase Execution[0m - [37mCompleted in 6.66857ms[0m
+[36m[03:42:56][0m [31m❌ ERROR:[0m [1mFile Copy[0m - [37mCould not copy from concepts.json: open output/books/book_006/phase2_concepts.json: no such file or directory[0m
+[36m[03:42:56][0m [32m✅ SUCCESS:[0m [1mPhase Processing[0m - [37mPhase 2 completed[0m
+[36m[03:42:56][0m [34mℹ️  INFO:[0m [1mProgress Save[0m - [37mPhase 2 progress saved[0m
+[36m[03:42:56][0m [1m🔄 Phase Processing[0m[33m [█████░░░░░░░░░░░░░░░](28.6%) [0m[37mBook 6 - Phase 3: Reader Feedback & Shareability
+%!(EXTRA string=[0m)[36m[03:42:56][0m [1m🔄 Phase Execution[0m[33m [░░░░░░░░░░░░░░░░░░░░](0.0%) [0m[37mExecuting Phase 3
+%!(EXTRA string=[0m)[36m[03:42:56][0m [32m✅ SUCCESS:[0m [1mPhase Execution[0m - [37mCompleted in 5.183822ms[0m
+[36m[03:42:56][0m [31m❌ ERROR:[0m [1mFile Copy[0m - [37mCould not copy from feedback.json: open output/books/book_006/phase3_feedback.json: no such file or directory[0m
+[36m[03:42:56][0m [32m✅ SUCCESS:[0m [1mPhase Processing[0m - [37mPhase 3 completed[0m
+[36m[03:42:56][0m [34mℹ️  INFO:[0m [1mProgress Save[0m - [37mPhase 3 progress saved[0m
+[36m[03:42:56][0m [1m🔄 Phase Processing[0m[33m [████████░░░░░░░░░░░░](42.9%) [0m[37mBook 6 - Phase 4: Media Coverage & PR Analysis
+%!(EXTRA string=[0m)[36m[03:42:56][0m [1m🔄 Phase Execution[0m[33m [░░░░░░░░░░░░░░░░░░░░](0.0%) [0m[37mExecuting Phase 4
+%!(EXTRA string=[0m)[36m[03:42:56][0m [32m✅ SUCCESS:[0m [1mPhase Execution[0m - [37mCompleted in 7.52465ms[0m
+[36m[03:42:56][0m [31m❌ ERROR:[0m [1mFile Copy[0m - [37mCould not copy from media.json: open output/books/book_006/phase4_media.json: no such file or directory[0m
+[36m[03:42:56][0m [32m✅ SUCCESS:[0m [1mPhase Processing[0m - [37mPhase 4 completed[0m
+[36m[03:42:56][0m [34mℹ️  INFO:[0m [1mProgress Save[0m - [37mPhase 4 progress saved[0m
+[36m[03:42:56][0m [1m🔄 Phase Processing[0m[33m [███████████░░░░░░░░░](57.1%) [0m[37mBook 6 - Phase 5: Title Optimization & A/B Testing
+%!(EXTRA string=[0m)[36m[03:42:56][0m [1m🔄 Phase Execution[0m[33m [░░░░░░░░░░░░░░░░░░░░](0.0%) [0m[37mExecuting Phase 5
+%!(EXTRA string=[0m)[36m[03:42:56][0m [32m✅ SUCCESS:[0m [1mPhase Execution[0m - [37mCompleted in 8.512893ms[0m
+[36m[03:42:56][0m [31m❌ ERROR:[0m [1mFile Copy[0m - [37mCould not copy from titles.json: open output/books/book_006/phase5_titles.json: no such file or directory[0m
+[36m[03:42:56][0m [32m✅ SUCCESS:[0m [1mPhase Processing[0m - [37mPhase 5 completed[0m
+[36m[03:42:56][0m [34mℹ️  INFO:[0m [1mProgress Save[0m - [37mPhase 5 progress saved[0m
+[36m[03:42:56][0m [1m🔄 Phase Processing[0m[33m [██████████████░░░░░░](71.4%) [0m[37mBook 6 - Phase 6: Complete Content Generation
+%!(EXTRA string=[0m)[36m[03:42:56][0m [1m🔄 Phase Execution[0m[33m [░░░░░░░░░░░░░░░░░░░░](0.0%) [0m[37mExecuting Phase 6 Beta
+%!(EXTRA string=[0m)[36m[03:58:11][0m [32m✅ SUCCESS:[0m [1mPhase Execution[0m - [37mCompleted in 15m14.867919042s[0m
+[36m[03:58:11][0m [31m❌ ERROR:[0m [1mFile Copy[0m - [37mCould not copy from content.json: open output/books/book_006/phase6_content.json: no such file or directory[0m
+[36m[03:58:11][0m [32m✅ SUCCESS:[0m [1mPhase Processing[0m - [37mPhase 6 completed[0m
+[36m[03:58:11][0m [34mℹ️  INFO:[0m [1mProgress Save[0m - [37mPhase 6 progress saved[0m
+[36m[03:58:11][0m [1m🔄 Phase Processing[0m[33m [█████████████████░░░](85.7%) [0m[37mBook 6 - Phase 7: Marketing Assets & Campaign
+%!(EXTRA string=[0m)[36m[03:58:11][0m [1m🔄 Phase Execution[0m[33m [░░░░░░░░░░░░░░░░░░░░](0.0%) [0m[37mExecuting Phase 7
+%!(EXTRA string=[0m)[36m[03:58:11][0m [32m✅ SUCCESS:[0m [1mPhase Execution[0m - [37mCompleted in 35.560698ms[0m
+[36m[03:58:11][0m [31m❌ ERROR:[0m [1mFile Copy[0m - [37mCould not copy from marketing.json: open output/books/book_006/phase7_marketing.json: no such file or directory[0m
+[36m[03:58:11][0m [32m✅ SUCCESS:[0m [1mPhase Processing[0m - [37mPhase 7 completed[0m
+[36m[03:58:11][0m [34mℹ️  INFO:[0m [1mProgress Save[0m - [37mPhase 7 progress saved[0m
+panic: runtime error: invalid memory address or nil pointer dereference
+[signal SIGSEGV: segmentation violation code=0x1 addr=0xb8 pc=0x16b77d1]
+
+goroutine 1 [running]:
+main.(*EnhancedSequentialGenerator).generateEnhancedBookSummary(0xc00012f380, 0xc000205cf0)
+	/Users/animality/Dev/Dev37/enhanced_sequential_generator.go:977 +0x251
+main.(*EnhancedSequentialGenerator).expandSingleBook(0xc00012f380, 0x6)
+	/Users/animality/Dev/Dev37/enhanced_sequential_generator.go:1201 +0x7a5
+main.main()
+	/Users/animality/Dev/Dev37/enhanced_sequential_generator.go:1105 +0x6b4

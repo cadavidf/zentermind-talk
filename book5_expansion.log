@@ -1,0 +1,44 @@
+
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║  ███████╗███╗   ██╗██╗  ██╗ █████╗ ███╗   ██╗ ██████╗███████╗██████╗          ║
+║  ██╔════╝████╗  ██║██║  ██║██╔══██╗████╗  ██║██╔════╝██╔════╝██╔══██╗         ║
+║  █████╗  ██╔██╗ ██║███████║███████║██╔██╗ ██║██║     █████╗  ██║  ██║         ║
+║  ██╔══╝  ██║╚██╗██║██╔══██║██╔══██║██║╚██╗██║██║     ██╔══╝  ██║  ██║         ║
+║  ███████╗██║ ╚████║██║  ██║██║  ██║██║ ╚████║╚██████╗███████╗██████╔╝         ║
+║  ╚══════╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝╚══════╝╚═════╝          ║
+║                                                                               ║
+║        📚 ENHANCED SEQUENTIAL BOOK GENERATION SYSTEM 📚                       ║
+║                                                                               ║
+║    ✨ Features: Resume • Pause • Real-time Logging • Chunked Processing ✨    ║
+║                                                                               ║
+║                        Co-authored by animality.ai                           ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+
+[36m[02:09:40][0m [1m[35m🎯 SINGLE BOOK EXPANSION MODE - Book 5 [0m[0m[0m
+[36m[02:09:40][0m [32m✅ SUCCESS:[0m [1mSetup[0m - [37mStarting expansion for: Preventive Everything[0m
+[36m[02:09:40][0m [1m🔄 Book Expansion[0m[33m [░░░░░░░░░░░░░░░░░░░░](0.0%) [0m[37mStarting expansion for book 5
+%!(EXTRA string=[0m)[36m[02:09:40][0m [1m🔄 Chapter Expansion[0m[33m [░░░░░░░░░░░░░░░░░░░░](0.0%) [0m[37mExpanding Chapter 1
+%!(EXTRA string=[0m)[36m[02:09:40][0m [34mℹ️  INFO:[0m [1mChapter Generation[0m - [37mChapter 1 not found, generating from outline...[0m
+[36m[02:11:47][0m [32m✅ SUCCESS:[0m [1mChapter Generation[0m - [37mGenerated Chapter 1 content[0m
+[36m[02:16:00][0m [32m✅ SUCCESS:[0m [1mChapter Expansion[0m - [37m✅ Chapter 1 expanded successfully[0m
+[36m[02:16:00][0m [1m🔄 Chapter Expansion[0m[33m [███░░░░░░░░░░░░░░░░░](16.7%) [0m[37mExpanding Chapter 2
+%!(EXTRA string=[0m)[36m[02:16:00][0m [34mℹ️  INFO:[0m [1mChapter Generation[0m - [37mChapter 2 not found, generating from outline...[0m
+[36m[02:20:24][0m [32m✅ SUCCESS:[0m [1mChapter Generation[0m - [37mGenerated Chapter 2 content[0m
+[36m[02:31:29][0m [32m✅ SUCCESS:[0m [1mChapter Expansion[0m - [37m✅ Chapter 2 expanded successfully[0m
+[36m[02:31:29][0m [1m🔄 Chapter Expansion[0m[33m [██████░░░░░░░░░░░░░░](33.3%) [0m[37mExpanding Chapter 3
+%!(EXTRA string=[0m)[36m[02:31:29][0m [34mℹ️  INFO:[0m [1mChapter Generation[0m - [37mChapter 3 not found, generating from outline...[0m
+[36m[02:38:22][0m [32m✅ SUCCESS:[0m [1mChapter Generation[0m - [37mGenerated Chapter 3 content[0m
+[36m[02:53:49][0m [32m✅ SUCCESS:[0m [1mChapter Expansion[0m - [37m✅ Chapter 3 expanded successfully[0m
+[36m[02:53:49][0m [1m🔄 Chapter Expansion[0m[33m [██████████░░░░░░░░░░](50.0%) [0m[37mExpanding Chapter 4
+%!(EXTRA string=[0m)[36m[02:53:49][0m [34mℹ️  INFO:[0m [1mChapter Generation[0m - [37mChapter 4 not found, generating from outline...[0m
+[36m[02:59:22][0m [32m✅ SUCCESS:[0m [1mChapter Generation[0m - [37mGenerated Chapter 4 content[0m
+[36m[03:07:46][0m [32m✅ SUCCESS:[0m [1mChapter Expansion[0m - [37m✅ Chapter 4 expanded successfully[0m
+[36m[03:07:46][0m [1m🔄 Chapter Expansion[0m[33m [█████████████░░░░░░░](66.7%) [0m[37mExpanding Chapter 5
+%!(EXTRA string=[0m)[36m[03:07:46][0m [34mℹ️  INFO:[0m [1mChapter Generation[0m - [37mChapter 5 not found, generating from outline...[0m
+[36m[03:13:40][0m [32m✅ SUCCESS:[0m [1mChapter Generation[0m - [37mGenerated Chapter 5 content[0m
+[36m[03:23:12][0m [32m✅ SUCCESS:[0m [1mChapter Expansion[0m - [37m✅ Chapter 5 expanded successfully[0m
+[36m[03:23:12][0m [1m🔄 Chapter Expansion[0m[33m [████████████████░░░░](83.3%) [0m[37mExpanding Chapter 6
+%!(EXTRA string=[0m)[36m[03:23:12][0m [34mℹ️  INFO:[0m [1mChapter Generation[0m - [37mChapter 6 not found, generating from outline...[0m
+[36m[03:25:47][0m [32m✅ SUCCESS:[0m [1mChapter Generation[0m - [37mGenerated Chapter 6 content[0m
+[36m[03:29:20][0m [32m✅ SUCCESS:[0m [1mChapter Expansion[0m - [37m✅ Chapter 6 expanded successfully[0m
+[36m[03:29:20][0m [32m✅ SUCCESS:[0m [1mBook Expansion[0m - [37m📚 Book 5 expansion completed![0m

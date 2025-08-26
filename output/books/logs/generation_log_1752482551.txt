@@ -1,0 +1,35 @@
+[03:42:31] IMPORTANT: 🎯 SINGLE BOOK EXPANSION MODE - Book 6
+[03:42:31] SUCCESS: Setup - Starting expansion for: The Regenerative Revolution
+[03:42:31] PROGRESS: Book Generation (0.0%) - Starting 7-phase generation for book 6
+[03:42:31] PROGRESS: Phase Processing (0.0%) - Book 6 - Phase 1: Market Intelligence & USP Optimization
+[03:42:31] PROGRESS: Phase Execution (0.0%) - Executing Phase 1 Beta
+[03:42:32] SUCCESS: Phase Execution - Completed in 52.769333ms
+[03:42:32] ERROR: File Copy - Could not copy from usp_optimization.json: open output/books/book_006/phase1_usp_optimization.json: no such file or directory
+[03:42:32] SUCCESS: Phase Processing - Phase 1 completed
+[03:42:32] INFO: Progress Save - Phase 1 progress saved
+[03:42:32] PROGRESS: Phase Processing (14.3%) - Book 6 - Phase 2: Concept Generation & Validation
+[03:42:32] PROGRESS: Phase Execution (0.0%) - Executing Phase 2
+[03:42:32] SUCCESS: Phase Execution - Completed in 22.476522ms
+[03:42:32] ERROR: File Copy - Could not copy from concepts.json: open output/books/book_006/phase2_concepts.json: no such file or directory
+[03:42:32] SUCCESS: Phase Processing - Phase 2 completed
+[03:42:32] INFO: Progress Save - Phase 2 progress saved
+[03:42:32] PROGRESS: Phase Processing (28.6%) - Book 6 - Phase 3: Reader Feedback & Shareability
+[03:42:32] PROGRESS: Phase Execution (0.0%) - Executing Phase 3
+[03:42:32] SUCCESS: Phase Execution - Completed in 19.991091ms
+[03:42:32] ERROR: File Copy - Could not copy from feedback.json: open output/books/book_006/phase3_feedback.json: no such file or directory
+[03:42:32] SUCCESS: Phase Processing - Phase 3 completed
+[03:42:32] INFO: Progress Save - Phase 3 progress saved
+[03:42:32] PROGRESS: Phase Processing (42.9%) - Book 6 - Phase 4: Media Coverage & PR Analysis
+[03:42:32] PROGRESS: Phase Execution (0.0%) - Executing Phase 4
+[03:42:32] SUCCESS: Phase Execution - Completed in 17.615215ms
+[03:42:32] ERROR: File Copy - Could not copy from media.json: open output/books/book_006/phase4_media.json: no such file or directory
+[03:42:32] SUCCESS: Phase Processing - Phase 4 completed
+[03:42:32] INFO: Progress Save - Phase 4 progress saved
+[03:42:32] PROGRESS: Phase Processing (57.1%) - Book 6 - Phase 5: Title Optimization & A/B Testing
+[03:42:32] PROGRESS: Phase Execution (0.0%) - Executing Phase 5
+[03:42:32] SUCCESS: Phase Execution - Completed in 21.51537ms
+[03:42:32] ERROR: File Copy - Could not copy from titles.json: open output/books/book_006/phase5_titles.json: no such file or directory
+[03:42:32] SUCCESS: Phase Processing - Phase 5 completed
+[03:42:32] INFO: Progress Save - Phase 5 progress saved
+[03:42:32] PROGRESS: Phase Processing (71.4%) - Book 6 - Phase 6: Complete Content Generation
+[03:42:32] PROGRESS: Phase Execution (0.0%) - Executing Phase 6 Beta
