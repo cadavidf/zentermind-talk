@@ -28,24 +28,28 @@ export default function StartCall() {
                 exit: { scale: 0.5 },
               }}
             >
-              <Button
-                className={"z-50 flex items-center gap-1.5"}
-                onClick={() => {
-                  connect()
-                    .then(() => {})
-                    .catch(() => {})
-                    .finally(() => {});
-                }}
-              >
-                <span>
-                  <Phone
-                    className={"size-4 opacity-50"}
-                    strokeWidth={2}
-                    stroke={"currentColor"}
-                  />
-                </span>
-                <span>Start Call</span>
-              </Button>
+              <div className={"flex flex-col items-center gap-3"}>
+                <Button
+                  className={"z-50 flex items-center gap-1.5"}
+                  onClick={() => {
+                    connect()
+                      .then(() => {})
+                      .catch(() => {})
+                      .finally(() => {});
+                  }}
+                >
+                  <span>⛩️</span>
+                  <span>Start Call</span>
+                </Button>
+                <a 
+                  href="https://talk.zentermind.com" 
+                  className={"text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200 text-sm transition-colors"}
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                >
+                  Companionship Call talk.zentermind.com
+                </a>
+              </div>
             </motion.div>
           </AnimatePresence>
         </motion.div>

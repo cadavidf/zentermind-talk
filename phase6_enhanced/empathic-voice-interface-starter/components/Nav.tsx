@@ -1,11 +1,8 @@
 "use client";
 
 import { useLayoutEffect, useState } from "react";
-import HumeLogo from "./logos/Hume";
 import { Button } from "./ui/button";
 import { Moon, Sun } from "lucide-react";
-import Github from "./logos/GitHub";
-import pkg from '@/package.json';
 
 export const Nav = () => {
   const [isDarkMode, setIsDarkMode] = useState(false);
@@ -32,10 +29,10 @@ export const Nav = () => {
         "px-4 py-2 flex items-center h-14 z-50 bg-card border-b border-border"
       }
     >
-      <div>
-        <HumeLogo className={"h-5 w-auto"} /> zentermind
+      <div className={"flex-1 flex justify-center items-center"}>
+        <div className={"text-lg font-semibold"}>⛩️ zentermind</div>
       </div>
-      <div className={"ml-auto flex items-center gap-1"}>
+      <div className={"flex items-center gap-1"}>
        
         <Button
           onClick={toggleDark}
