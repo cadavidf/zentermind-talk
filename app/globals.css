@@ -3,6 +3,17 @@
 
 @custom-variant dark (&:is(.dark *));
 
+@font-face {
+  font-family: 'ZenterMiind';
+  src: url('/fonts/zentermiind-Bold-1.woff2') format('woff2'),
+       url('/fonts/zentermiind-Bold-1.woff') format('woff'),
+       url('/fonts/zentermiind-Bold-1.ttf') format('truetype'),
+       url('/fonts/zentermiind-Bold-1.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
 :root {
   --background: oklch(1 0 0);
   --foreground: oklch(0.145 0 0);

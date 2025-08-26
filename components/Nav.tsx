@@ -12,7 +12,7 @@ export const Nav = () => {
       className={"fixed top-0 left-0 right-0 px-4 py-2 flex items-center justify-between h-14 z-50"}
     >
       <div className={"flex items-center"}>
-        <div className={"text-lg font-semibold"}>⛩️ zentermind</div>
+        <div className={"text-lg font-bold"} style={{fontFamily: 'ZenterMiind, system-ui, sans-serif'}}>⛩️ zentermind</div>
       </div>
       <div className={"flex items-center gap-1"}>
         <Button
