@@ -28,6 +28,7 @@ export default function StartCall({ configId, accessToken }: { configId?: string
                 enter: { scale: 1 },
                 exit: { scale: 0.5 },
               }}
+              className="flex flex-col items-center gap-4"
             >
               <Button
                 className={"z-50 flex items-center gap-1.5 rounded-full"}
@@ -53,6 +54,9 @@ export default function StartCall({ configId, accessToken }: { configId?: string
                 </span>
                 <span>Start Call</span>
               </Button>
+              <div className="text-gray-500 dark:text-gray-400 text-sm font-light">
+                serenity beyond sanctuary
+              </div>
             </motion.div>
           </AnimatePresence>
         </motion.div>
