@@ -1,0 +1,15 @@
+{
+  "name": "zentermind-talk",
+  "version": "1.0.0",
+  "description": "ZenterMind Talk - Empathetic Voice Companion Platform",
+  "scripts": {
+    "dev": "cd phase6_enhanced/empathic-voice-interface-starter && npm run dev",
+    "build": "cd phase6_enhanced/empathic-voice-interface-starter && npm run build",
+    "start": "cd phase6_enhanced/empathic-voice-interface-starter && npm run start",
+    "install:app": "cd phase6_enhanced/empathic-voice-interface-starter && npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cadavidf/zentermind-talk.git"
+  }
+}
