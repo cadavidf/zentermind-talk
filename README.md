@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/zentermindlogo.png" alt="ZenterMind Logo" width="300">
+  <img src="https://zentermind.com/logo.png" alt="ZenterMind Logo" width="300">
   <h1>ZenterMind — Companionship Call</h1>
 </div>
 
