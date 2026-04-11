@@ -4,7 +4,7 @@ import { VoiceProvider } from "@humeai/voice-react";
 import Messages from "./Messages";
 import Controls from "./Controls";
 import StartCall from "./StartCall";
-import { ComponentRef, useRef } from "react";
+import { ComponentRef, useMemo, useRef } from "react";
 import { toast } from "sonner";
 
 export default function ClientComponent({
@@ -17,6 +17,17 @@ export default function ClientComponent({
 
   // optional: use configId from environment variable
   const configId = process.env['NEXT_PUBLIC_HUME_CONFIG_ID'];
+  const isSafariIOS = useMemo(() => {
+    if (typeof navigator === "undefined") {
+      return false;
+    }
+
+    const ua = navigator.userAgent;
+    const isIOS = /iP(hone|od|ad)/.test(ua);
+    const isSafari = /Safari/.test(ua) && !/CriOS|FxiOS|EdgiOS|OPiOS/.test(ua);
+
+    return isIOS && isSafari;
+  }, []);
   
   return (
     <div
@@ -25,6 +36,7 @@ export default function ClientComponent({
       }
     >
       <VoiceProvider
+        enableAudioWorklet={!isSafariIOS}
         onMessage={() => {
           if (timeout.current) {
             window.clearTimeout(timeout.current);
@@ -47,7 +59,11 @@ export default function ClientComponent({
       >
         <Messages ref={ref} />
         <Controls />
-        <StartCall configId={configId} accessToken={accessToken} />
+        <StartCall
+          configId={configId}
+          accessToken={accessToken}
+          isSafariIOS={isSafariIOS}
+        />
       </VoiceProvider>
     </div>
   );
