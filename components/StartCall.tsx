@@ -4,7 +4,27 @@ import { Button } from "./ui/button";
 import { Phone } from "lucide-react";
 import { toast } from "sonner";
 
-export default function StartCall({ configId, accessToken }: { configId?: string, accessToken: string }) {
+function getErrorMessage(error: unknown) {
+  if (error instanceof Error && error.message) {
+    return error.message;
+  }
+
+  if (typeof error === "string" && error.trim()) {
+    return error;
+  }
+
+  return "Unable to start call";
+}
+
+export default function StartCall({
+  configId,
+  accessToken,
+  isSafariIOS,
+}: {
+  configId?: string;
+  accessToken: string;
+  isSafariIOS: boolean;
+}) {
   const { status, connect } = useVoice();
 
   return (
@@ -40,8 +60,8 @@ export default function StartCall({ configId, accessToken }: { configId?: string
                     // like resumedChatGroupId and sessionSettings
                   })
                     .then(() => {})
-                    .catch(() => {
-                      toast.error("Unable to start call");
+                    .catch((error: unknown) => {
+                      toast.error(getErrorMessage(error));
                     })
                     .finally(() => {});
                 }}
@@ -59,6 +79,13 @@ export default function StartCall({ configId, accessToken }: { configId?: string
               </div>
             </motion.div>
           </AnimatePresence>
+          {isSafariIOS ? (
+            <div className="fixed bottom-24 left-1/2 -translate-x-1/2 w-[calc(100%-2rem)] max-w-md rounded-xl border border-border bg-card px-4 py-3 text-sm text-muted-foreground shadow-lg">
+              iPhone Safari can fail on the voice audio pipeline. This build
+              disables AudioWorklet on Safari/iPhone, but if the call still
+              does not start, use Chrome or another browser.
+            </div>
+          ) : null}
         </motion.div>
       ) : null}
     </AnimatePresence>
